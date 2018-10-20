@@ -7,16 +7,16 @@ We propose a novel hierarchical recall model fusing multiple modality (including
 
 If you use these codes in your research, please cite:
 
-	@inproceedings{avec2018hrf,
-		author = {Xing, Xiaofen and Cai, Bolun and Zhao, Yinhu and Li, Shuzhen and He, Zhiwei and Fan, Weiquan},
-		title={Multi-modality Hierarchical Recall Based on GBDTs for Bipolar Disorder Classification},
-		booktitle={Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop},
+    @inproceedings{avec2018hrf,
+        author = {Xing, Xiaofen and Cai, Bolun and Zhao, Yinhu and Li, Shuzhen and He, Zhiwei and Fan, Weiquan},
+        title={Multi-modality Hierarchical Recall Based on GBDTs for Bipolar Disorder Classification},
+        booktitle={Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop},
         series = {AVEC'18},
         location = {Seoul, Republic of Korea},
         pages = {31--37},
         numpages = {7},
         year = {2018},
-		}
+        }
 
 ----------
 ## Usage
