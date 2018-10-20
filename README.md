@@ -5,6 +5,19 @@ Xiaofen Xing, Bolun Cai, Yinhu Zhao, Shuzhen Li, Zhiwei He, Weiquan Fan
 ## Introduction
 We propose a novel hierarchical recall model fusing multiple modality (including audio, video and text) for bipolar disorder classifcation, where patients with diﬀerent mania level are recalled layer-by-layer. To address the complex distribution on the challenge data, the proposed framework utilizes multi-model, multi-modality and multi-layer to perform domain adaptation for each patient and hard sample mining for special patients. The experimental results show that our framework achieves competitive performance with Unweighed Average Recall (UAR) of 59.26% on the test set, and 64.29% on the development set.
 
+If you use these codes in your research, please cite:
+
+	@inproceedings{avec2018hrf,
+		author = {Xing, Xiaofen and Cai, Bolun and Zhao, Yinhu and Li, Shuzhen and He, Zhiwei and Fan, Weiquan},
+		title={Multi-modality Hierarchical Recall Based on GBDTs for Bipolar Disorder Classification},
+		booktitle={Proceedings of the 2018 on Audio/Visual Emotion Challenge and Workshop},
+        series = {AVEC'18},
+        location = {Seoul, Republic of Korea},
+        pages = {31--37},
+        numpages = {7},
+        year = {2018},
+		}
+
 ----------
 ## Usage
 ### 1. Install python3 requre modules
