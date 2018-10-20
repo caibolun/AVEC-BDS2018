@@ -1,0 +1,190 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7347252,
+          "transcript": "Haz\u0131r m\u0131s\u0131n\u0131z buraya neden geldiniz",
+          "words": [
+            {
+              "endTime": "31.100s",
+              "startTime": "29.300s",
+              "word": "Haz\u0131r"
+            },
+            {
+              "endTime": "31.400s",
+              "startTime": "31.100s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "31.700s",
+              "startTime": "31.400s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "31.900s",
+              "startTime": "31.700s",
+              "word": "neden"
+            },
+            {
+              "endTime": "32.300s",
+              "startTime": "31.900s",
+              "word": "geldiniz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7173399,
+          "transcript": "istersen",
+          "words": [
+            {
+              "endTime": "38.500s",
+              "startTime": "36.800s",
+              "word": "istersen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8602523,
+          "transcript": " Ara\u015ft\u0131rma Hastanesi Derince Ara\u015ft\u0131rma Hastanesi",
+          "words": [
+            {
+              "endTime": "40.800s",
+              "startTime": "40s",
+              "word": "Ara\u015ft\u0131rma"
+            },
+            {
+              "endTime": "41.400s",
+              "startTime": "40.800s",
+              "word": "Hastanesi"
+            },
+            {
+              "endTime": "42s",
+              "startTime": "41.400s",
+              "word": "Derince"
+            },
+            {
+              "endTime": "43.100s",
+              "startTime": "42s",
+              "word": "Ara\u015ft\u0131rma"
+            },
+            {
+              "endTime": "43.400s",
+              "startTime": "43.100s",
+              "word": "Hastanesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.74465525,
+          "transcript": " video yapmak i\u00e7in",
+          "words": [
+            {
+              "endTime": "51.500s",
+              "startTime": "50.900s",
+              "word": "video"
+            },
+            {
+              "endTime": "51.800s",
+              "startTime": "51.500s",
+              "word": "yapmak"
+            },
+            {
+              "endTime": "51.900s",
+              "startTime": "51.800s",
+              "word": "i\u00e7in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5489532,
+          "transcript": " bana dedi ki",
+          "words": [
+            {
+              "endTime": "54.200s",
+              "startTime": "53.800s",
+              "word": "bana"
+            },
+            {
+              "endTime": "56.200s",
+              "startTime": "54.200s",
+              "word": "dedi"
+            },
+            {
+              "endTime": "56.300s",
+              "startTime": "56.200s",
+              "word": "ki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.64316034,
+          "transcript": " \u00f6ld\u00fcrecek Allah'\u0131m Siz bilmiyor mu",
+          "words": [
+            {
+              "endTime": "65.900s",
+              "startTime": "65.100s",
+              "word": "\u00f6ld\u00fcrecek"
+            },
+            {
+              "endTime": "66.400s",
+              "startTime": "65.900s",
+              "word": "Allah'\u0131m"
+            },
+            {
+              "endTime": "66.600s",
+              "startTime": "66.400s",
+              "word": "Siz"
+            },
+            {
+              "endTime": "66.700s",
+              "startTime": "66.600s",
+              "word": "bilmiyor"
+            },
+            {
+              "endTime": "67.200s",
+              "startTime": "66.700s",
+              "word": "mu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6808565,
+          "transcript": " Facebook",
+          "words": [
+            {
+              "endTime": "69.200s",
+              "startTime": "68.600s",
+              "word": "Facebook"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

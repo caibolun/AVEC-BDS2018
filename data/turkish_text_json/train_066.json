@@ -1,0 +1,405 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89993507,
+          "transcript": "Neden buradas\u0131n",
+          "words": [
+            {
+              "endTime": "3s",
+              "startTime": "1.100s",
+              "word": "Neden"
+            },
+            {
+              "endTime": "3.300s",
+              "startTime": "3s",
+              "word": "buradas\u0131n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.70625716,
+          "transcript": " geni\u015f Neden buradas\u0131n",
+          "words": [
+            {
+              "endTime": "5.600s",
+              "startTime": "4.700s",
+              "word": "geni\u015f"
+            },
+            {
+              "endTime": "6.300s",
+              "startTime": "5.600s",
+              "word": "Neden"
+            },
+            {
+              "endTime": "6.700s",
+              "startTime": "6.300s",
+              "word": "buradas\u0131n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.73835623,
+          "transcript": " 5 Neden beni istemiyorsun hep ger\u00e7ekle\u015fmez",
+          "words": [
+            {
+              "endTime": "9s",
+              "startTime": "8.300s",
+              "word": "5"
+            },
+            {
+              "endTime": "9.300s",
+              "startTime": "9s",
+              "word": "Neden"
+            },
+            {
+              "endTime": "9.700s",
+              "startTime": "9.300s",
+              "word": "beni"
+            },
+            {
+              "endTime": "9.900s",
+              "startTime": "9.700s",
+              "word": "istemiyorsun"
+            },
+            {
+              "endTime": "10.700s",
+              "startTime": "9.900s",
+              "word": "hep"
+            },
+            {
+              "endTime": "11.600s",
+              "startTime": "10.700s",
+              "word": "ger\u00e7ekle\u015fmez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.69379324,
+          "transcript": " Garanti Bankas\u0131 memur al\u0131m\u0131",
+          "words": [
+            {
+              "endTime": "21.500s",
+              "startTime": "20s",
+              "word": "Garanti"
+            },
+            {
+              "endTime": "22.800s",
+              "startTime": "21.500s",
+              "word": "Bankas\u0131"
+            },
+            {
+              "endTime": "22.900s",
+              "startTime": "22.800s",
+              "word": "memur"
+            },
+            {
+              "endTime": "24.600s",
+              "startTime": "22.900s",
+              "word": "al\u0131m\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71176887,
+          "transcript": " s\u00f6yledik",
+          "words": [
+            {
+              "endTime": "36.300s",
+              "startTime": "35.500s",
+              "word": "s\u00f6yledik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.65580314,
+          "transcript": " Hadi bir \u015fey arkas\u0131ndaki \u00e7atlaklar ayakkab\u0131m olmad\u0131 bende kald\u0131 g\u00fcne\u015f enerjisi",
+          "words": [
+            {
+              "endTime": "37.800s",
+              "startTime": "37.200s",
+              "word": "Hadi"
+            },
+            {
+              "endTime": "38s",
+              "startTime": "37.800s",
+              "word": "bir"
+            },
+            {
+              "endTime": "38.500s",
+              "startTime": "38s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "39.300s",
+              "startTime": "38.500s",
+              "word": "arkas\u0131ndaki"
+            },
+            {
+              "endTime": "39.600s",
+              "startTime": "39.300s",
+              "word": "\u00e7atlaklar"
+            },
+            {
+              "endTime": "40.300s",
+              "startTime": "39.600s",
+              "word": "ayakkab\u0131m"
+            },
+            {
+              "endTime": "41.800s",
+              "startTime": "40.300s",
+              "word": "olmad\u0131"
+            },
+            {
+              "endTime": "43s",
+              "startTime": "41.800s",
+              "word": "bende"
+            },
+            {
+              "endTime": "43.800s",
+              "startTime": "43s",
+              "word": "kald\u0131"
+            },
+            {
+              "endTime": "49.800s",
+              "startTime": "43.800s",
+              "word": "g\u00fcne\u015f"
+            },
+            {
+              "endTime": "51.300s",
+              "startTime": "49.800s",
+              "word": "enerjisi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6245262,
+          "transcript": " armat\u00f6rler \u015feyler beklenmedik \u015feyler",
+          "words": [
+            {
+              "endTime": "55.200s",
+              "startTime": "54.100s",
+              "word": "armat\u00f6rler"
+            },
+            {
+              "endTime": "55.500s",
+              "startTime": "55.200s",
+              "word": "\u015feyler"
+            },
+            {
+              "endTime": "56.400s",
+              "startTime": "55.500s",
+              "word": "beklenmedik"
+            },
+            {
+              "endTime": "57.600s",
+              "startTime": "56.400s",
+              "word": "\u015feyler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7810274,
+          "transcript": " anlayan'dan hala Teyze dedim Ne var elinde 2000 lira i\u015f",
+          "words": [
+            {
+              "endTime": "62.800s",
+              "startTime": "62s",
+              "word": "anlayan'dan"
+            },
+            {
+              "endTime": "64.600s",
+              "startTime": "62.800s",
+              "word": "hala"
+            },
+            {
+              "endTime": "64.900s",
+              "startTime": "64.600s",
+              "word": "Teyze"
+            },
+            {
+              "endTime": "65.400s",
+              "startTime": "64.900s",
+              "word": "dedim"
+            },
+            {
+              "endTime": "65.900s",
+              "startTime": "65.400s",
+              "word": "Ne"
+            },
+            {
+              "endTime": "65.900s",
+              "startTime": "65.900s",
+              "word": "var"
+            },
+            {
+              "endTime": "66.400s",
+              "startTime": "65.900s",
+              "word": "elinde"
+            },
+            {
+              "endTime": "67.600s",
+              "startTime": "66.400s",
+              "word": "2000"
+            },
+            {
+              "endTime": "67.800s",
+              "startTime": "67.600s",
+              "word": "lira"
+            },
+            {
+              "endTime": "68s",
+              "startTime": "67.800s",
+              "word": "i\u015f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.752843,
+          "transcript": " ne vereceksin \u015fuan elimde 300 lira ge\u00e7iyor",
+          "words": [
+            {
+              "endTime": "69.700s",
+              "startTime": "69.400s",
+              "word": "ne"
+            },
+            {
+              "endTime": "70.300s",
+              "startTime": "69.700s",
+              "word": "vereceksin"
+            },
+            {
+              "endTime": "70.900s",
+              "startTime": "70.300s",
+              "word": "\u015fuan"
+            },
+            {
+              "endTime": "71.300s",
+              "startTime": "70.900s",
+              "word": "elimde"
+            },
+            {
+              "endTime": "71.500s",
+              "startTime": "71.300s",
+              "word": "300"
+            },
+            {
+              "endTime": "71.800s",
+              "startTime": "71.500s",
+              "word": "lira"
+            },
+            {
+              "endTime": "72.200s",
+              "startTime": "71.800s",
+              "word": "ge\u00e7iyor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6245733,
+          "transcript": " mesaj k\u0131skand\u0131",
+          "words": [
+            {
+              "endTime": "82.700s",
+              "startTime": "82.200s",
+              "word": "mesaj"
+            },
+            {
+              "endTime": "83.900s",
+              "startTime": "82.700s",
+              "word": "k\u0131skand\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7480048,
+          "transcript": " geleneksel olan faydalar\u0131 m\u0131",
+          "words": [
+            {
+              "endTime": "105s",
+              "startTime": "102s",
+              "word": "geleneksel"
+            },
+            {
+              "endTime": "105.300s",
+              "startTime": "105s",
+              "word": "olan"
+            },
+            {
+              "endTime": "105.800s",
+              "startTime": "105.300s",
+              "word": "faydalar\u0131"
+            },
+            {
+              "endTime": "105.900s",
+              "startTime": "105.800s",
+              "word": "m\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.72787184,
+          "transcript": " el sandalye",
+          "words": [
+            {
+              "endTime": "119.700s",
+              "startTime": "119.300s",
+              "word": "el"
+            },
+            {
+              "endTime": "120.100s",
+              "startTime": "119.700s",
+              "word": "sandalye"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

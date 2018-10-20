@@ -1,0 +1,485 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.72883385,
+          "transcript": "yazaca\u011f\u0131m sana",
+          "words": [
+            {
+              "endTime": "22.600s",
+              "startTime": "17.700s",
+              "word": "yazaca\u011f\u0131m"
+            },
+            {
+              "endTime": "23.900s",
+              "startTime": "22.600s",
+              "word": "sana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.90635383,
+          "transcript": "utan\u00e7",
+          "words": [
+            {
+              "endTime": "38.800s",
+              "startTime": "38.100s",
+              "word": "utan\u00e7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5813804,
+          "transcript": " bu ara",
+          "words": [
+            {
+              "endTime": "49.200s",
+              "startTime": "48.900s",
+              "word": "bu"
+            },
+            {
+              "endTime": "49.600s",
+              "startTime": "49.200s",
+              "word": "ara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.59299415,
+          "transcript": " harita",
+          "words": [
+            {
+              "endTime": "53.300s",
+              "startTime": "52.200s",
+              "word": "harita"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6227727,
+          "transcript": " muhasebe kayd\u0131",
+          "words": [
+            {
+              "endTime": "56.800s",
+              "startTime": "56.100s",
+              "word": "muhasebe"
+            },
+            {
+              "endTime": "57.200s",
+              "startTime": "56.800s",
+              "word": "kayd\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8313456,
+          "transcript": " bir k\u00f6\u015fede \u015fark\u0131s\u0131",
+          "words": [
+            {
+              "endTime": "66.100s",
+              "startTime": "65.600s",
+              "word": "bir"
+            },
+            {
+              "endTime": "66.600s",
+              "startTime": "66.100s",
+              "word": "k\u00f6\u015fede"
+            },
+            {
+              "endTime": "67s",
+              "startTime": "66.600s",
+              "word": "\u015fark\u0131s\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6468181,
+          "transcript": " T\u00fcm arkada\u015flar\u0131m\u0131z\u0131",
+          "words": [
+            {
+              "endTime": "78.800s",
+              "startTime": "78.300s",
+              "word": "T\u00fcm"
+            },
+            {
+              "endTime": "80.200s",
+              "startTime": "78.800s",
+              "word": "arkada\u015flar\u0131m\u0131z\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.72344285,
+          "transcript": " yemin ederim ki",
+          "words": [
+            {
+              "endTime": "87.900s",
+              "startTime": "83.900s",
+              "word": "yemin"
+            },
+            {
+              "endTime": "96.600s",
+              "startTime": "87.900s",
+              "word": "ederim"
+            },
+            {
+              "endTime": "98.200s",
+              "startTime": "96.600s",
+              "word": "ki"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82291114,
+          "transcript": " kalabal\u0131k yerdesin pis ter kokusu 8. Zonguldak'ta Okudu\u011fun zaman \u00e7ok ba\u015far\u0131l\u0131yd\u0131 takdir te\u015fekk\u00fcr ederim \u00c7ok iyi \u00fcniversiteden \u00fcniversiteye",
+          "words": [
+            {
+              "endTime": "116.100s",
+              "startTime": "115.400s",
+              "word": "kalabal\u0131k"
+            },
+            {
+              "endTime": "116.500s",
+              "startTime": "116.100s",
+              "word": "yerdesin"
+            },
+            {
+              "endTime": "117.700s",
+              "startTime": "116.500s",
+              "word": "pis"
+            },
+            {
+              "endTime": "118s",
+              "startTime": "117.700s",
+              "word": "ter"
+            },
+            {
+              "endTime": "118.400s",
+              "startTime": "118s",
+              "word": "kokusu"
+            },
+            {
+              "endTime": "128.200s",
+              "startTime": "118.400s",
+              "word": "8."
+            },
+            {
+              "endTime": "129s",
+              "startTime": "128.200s",
+              "word": "Zonguldak'ta"
+            },
+            {
+              "endTime": "130.300s",
+              "startTime": "129s",
+              "word": "Okudu\u011fun"
+            },
+            {
+              "endTime": "130.400s",
+              "startTime": "130.300s",
+              "word": "zaman"
+            },
+            {
+              "endTime": "130.600s",
+              "startTime": "130.400s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "131.400s",
+              "startTime": "130.600s",
+              "word": "ba\u015far\u0131l\u0131yd\u0131"
+            },
+            {
+              "endTime": "132.200s",
+              "startTime": "131.400s",
+              "word": "takdir"
+            },
+            {
+              "endTime": "140s",
+              "startTime": "132.200s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "141.700s",
+              "startTime": "140s",
+              "word": "ederim"
+            },
+            {
+              "endTime": "143s",
+              "startTime": "141.700s",
+              "word": "\u00c7ok"
+            },
+            {
+              "endTime": "153.300s",
+              "startTime": "143s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "153.800s",
+              "startTime": "153.300s",
+              "word": "\u00fcniversiteden"
+            },
+            {
+              "endTime": "154s",
+              "startTime": "153.800s",
+              "word": "\u00fcniversiteye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6883282,
+          "transcript": " annemi kaybettim",
+          "words": [
+            {
+              "endTime": "162.400s",
+              "startTime": "161.800s",
+              "word": "annemi"
+            },
+            {
+              "endTime": "162.500s",
+              "startTime": "162.400s",
+              "word": "kaybettim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5173363,
+          "transcript": " F\u0131kra nedir",
+          "words": [
+            {
+              "endTime": "165.700s",
+              "startTime": "164s",
+              "word": "F\u0131kra"
+            },
+            {
+              "endTime": "165.800s",
+              "startTime": "165.700s",
+              "word": "nedir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81111807,
+          "transcript": " Bilemezler K\u0131skan\u0131rlar g\u00fczelim i\u015fte atabilirler \u00c7ok sevdi\u011fim bir i\u015fim var bunda yap\u0131yorsunuz",
+          "words": [
+            {
+              "endTime": "173.800s",
+              "startTime": "172.900s",
+              "word": "Bilemezler"
+            },
+            {
+              "endTime": "174.500s",
+              "startTime": "173.800s",
+              "word": "K\u0131skan\u0131rlar"
+            },
+            {
+              "endTime": "174.600s",
+              "startTime": "174.500s",
+              "word": "g\u00fczelim"
+            },
+            {
+              "endTime": "176.300s",
+              "startTime": "174.600s",
+              "word": "i\u015fte"
+            },
+            {
+              "endTime": "177.100s",
+              "startTime": "176.300s",
+              "word": "atabilirler"
+            },
+            {
+              "endTime": "178.100s",
+              "startTime": "177.100s",
+              "word": "\u00c7ok"
+            },
+            {
+              "endTime": "178.500s",
+              "startTime": "178.100s",
+              "word": "sevdi\u011fim"
+            },
+            {
+              "endTime": "178.600s",
+              "startTime": "178.500s",
+              "word": "bir"
+            },
+            {
+              "endTime": "178.800s",
+              "startTime": "178.600s",
+              "word": "i\u015fim"
+            },
+            {
+              "endTime": "179s",
+              "startTime": "178.800s",
+              "word": "var"
+            },
+            {
+              "endTime": "179.500s",
+              "startTime": "179s",
+              "word": "bunda"
+            },
+            {
+              "endTime": "180.800s",
+              "startTime": "179.500s",
+              "word": "yap\u0131yorsunuz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.66144603,
+          "transcript": " \u00fcz\u00fclerek olmuyor Karadeniz'de de beni istemiyorlar \u00c7ok te\u015fekk\u00fcr ederim Sizi k\u0131skan\u0131yor",
+          "words": [
+            {
+              "endTime": "182.900s",
+              "startTime": "181.900s",
+              "word": "\u00fcz\u00fclerek"
+            },
+            {
+              "endTime": "183.600s",
+              "startTime": "182.900s",
+              "word": "olmuyor"
+            },
+            {
+              "endTime": "185.800s",
+              "startTime": "183.600s",
+              "word": "Karadeniz'de"
+            },
+            {
+              "endTime": "185.900s",
+              "startTime": "185.800s",
+              "word": "de"
+            },
+            {
+              "endTime": "195.400s",
+              "startTime": "185.900s",
+              "word": "beni"
+            },
+            {
+              "endTime": "196s",
+              "startTime": "195.400s",
+              "word": "istemiyorlar"
+            },
+            {
+              "endTime": "200.900s",
+              "startTime": "196s",
+              "word": "\u00c7ok"
+            },
+            {
+              "endTime": "201.300s",
+              "startTime": "200.900s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "201.600s",
+              "startTime": "201.300s",
+              "word": "ederim"
+            },
+            {
+              "endTime": "201.800s",
+              "startTime": "201.600s",
+              "word": "Sizi"
+            },
+            {
+              "endTime": "207.700s",
+              "startTime": "201.800s",
+              "word": "k\u0131skan\u0131yor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7284882,
+          "transcript": " Ben isterim ki Herkes okusun bayra\u011f\u0131n\u0131 y\u00fcklemesi",
+          "words": [
+            {
+              "endTime": "219.300s",
+              "startTime": "217.900s",
+              "word": "Ben"
+            },
+            {
+              "endTime": "219.700s",
+              "startTime": "219.300s",
+              "word": "isterim"
+            },
+            {
+              "endTime": "219.900s",
+              "startTime": "219.700s",
+              "word": "ki"
+            },
+            {
+              "endTime": "220.100s",
+              "startTime": "219.900s",
+              "word": "Herkes"
+            },
+            {
+              "endTime": "220.300s",
+              "startTime": "220.100s",
+              "word": "okusun"
+            },
+            {
+              "endTime": "221.800s",
+              "startTime": "220.300s",
+              "word": "bayra\u011f\u0131n\u0131"
+            },
+            {
+              "endTime": "224.500s",
+              "startTime": "221.800s",
+              "word": "y\u00fcklemesi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

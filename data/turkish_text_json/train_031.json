@@ -1,0 +1,700 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.94197994,
+          "transcript": "\u00e7al\u0131\u015fmay\u0131 kabul etti\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz l\u00fctfen her sayfada size verecek g\u00f6revini tamamlad\u0131ktan sonra Bo\u015fluk tu\u015funa bas\u0131n\u0131z buraya neden geldi\u011fini hat\u0131rlar m\u0131s\u0131n\u0131z hat\u0131rlar\u0131m gelecek olan sayfalar\u0131 resmi anlat\u0131r m\u0131s\u0131n size neler d\u00fc\u015f\u00fcnd\u00fc hissettirdi\u011fini d\u00fc\u015f\u00fcnce Karamsarl\u0131k ki her \u015feyi k\u00f6t\u00fc bir an\u0131 Zara Hat\u0131rlarm\u0131s\u0131n aya\u011f\u0131n\u0131n kesilmesi 1'den 30'a kadar sayar m\u0131s\u0131n\u0131z sayar\u0131m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 26 27 28 29 30 1'den 30'a kadar h\u0131zl\u0131 bir \u015fekilde sayfas\u0131n\u0131n sayar\u0131m 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 sayfalar\u0131 resmi anlat\u0131m\u0131 sizden nefret ettirdi mutlu aile tablosu hissettirdi hissettim",
+          "words": [
+            {
+              "endTime": "0.900s",
+              "startTime": "0.100s",
+              "word": "\u00e7al\u0131\u015fmay\u0131"
+            },
+            {
+              "endTime": "1.100s",
+              "startTime": "0.900s",
+              "word": "kabul"
+            },
+            {
+              "endTime": "1.600s",
+              "startTime": "1.100s",
+              "word": "etti\u011finiz"
+            },
+            {
+              "endTime": "1.600s",
+              "startTime": "1.600s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "1.800s",
+              "startTime": "1.600s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "2.600s",
+              "startTime": "1.800s",
+              "word": "ederiz"
+            },
+            {
+              "endTime": "3.500s",
+              "startTime": "2.600s",
+              "word": "l\u00fctfen"
+            },
+            {
+              "endTime": "3.700s",
+              "startTime": "3.500s",
+              "word": "her"
+            },
+            {
+              "endTime": "4.100s",
+              "startTime": "3.700s",
+              "word": "sayfada"
+            },
+            {
+              "endTime": "4.400s",
+              "startTime": "4.100s",
+              "word": "size"
+            },
+            {
+              "endTime": "4.700s",
+              "startTime": "4.400s",
+              "word": "verecek"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.700s",
+              "word": "g\u00f6revini"
+            },
+            {
+              "endTime": "5.700s",
+              "startTime": "5.100s",
+              "word": "tamamlad\u0131ktan"
+            },
+            {
+              "endTime": "6.100s",
+              "startTime": "5.700s",
+              "word": "sonra"
+            },
+            {
+              "endTime": "6.600s",
+              "startTime": "6.100s",
+              "word": "Bo\u015fluk"
+            },
+            {
+              "endTime": "7.100s",
+              "startTime": "6.600s",
+              "word": "tu\u015funa"
+            },
+            {
+              "endTime": "7.600s",
+              "startTime": "7.100s",
+              "word": "bas\u0131n\u0131z"
+            },
+            {
+              "endTime": "8.600s",
+              "startTime": "7.600s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "8.800s",
+              "startTime": "8.600s",
+              "word": "neden"
+            },
+            {
+              "endTime": "9.300s",
+              "startTime": "8.800s",
+              "word": "geldi\u011fini"
+            },
+            {
+              "endTime": "9.700s",
+              "startTime": "9.300s",
+              "word": "hat\u0131rlar"
+            },
+            {
+              "endTime": "10.100s",
+              "startTime": "9.700s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "11.600s",
+              "startTime": "10.100s",
+              "word": "hat\u0131rlar\u0131m"
+            },
+            {
+              "endTime": "13.100s",
+              "startTime": "11.600s",
+              "word": "gelecek"
+            },
+            {
+              "endTime": "13.300s",
+              "startTime": "13.100s",
+              "word": "olan"
+            },
+            {
+              "endTime": "13.900s",
+              "startTime": "13.300s",
+              "word": "sayfalar\u0131"
+            },
+            {
+              "endTime": "14s",
+              "startTime": "13.900s",
+              "word": "resmi"
+            },
+            {
+              "endTime": "14.700s",
+              "startTime": "14s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "15s",
+              "startTime": "14.700s",
+              "word": "m\u0131s\u0131n"
+            },
+            {
+              "endTime": "15.200s",
+              "startTime": "15s",
+              "word": "size"
+            },
+            {
+              "endTime": "15.500s",
+              "startTime": "15.200s",
+              "word": "neler"
+            },
+            {
+              "endTime": "16s",
+              "startTime": "15.500s",
+              "word": "d\u00fc\u015f\u00fcnd\u00fc"
+            },
+            {
+              "endTime": "16.800s",
+              "startTime": "16s",
+              "word": "hissettirdi\u011fini"
+            },
+            {
+              "endTime": "18.300s",
+              "startTime": "16.800s",
+              "word": "d\u00fc\u015f\u00fcnce"
+            },
+            {
+              "endTime": "19s",
+              "startTime": "18.300s",
+              "word": "Karamsarl\u0131k"
+            },
+            {
+              "endTime": "19.200s",
+              "startTime": "19s",
+              "word": "ki"
+            },
+            {
+              "endTime": "19.300s",
+              "startTime": "19.200s",
+              "word": "her"
+            },
+            {
+              "endTime": "19.600s",
+              "startTime": "19.300s",
+              "word": "\u015feyi"
+            },
+            {
+              "endTime": "20.900s",
+              "startTime": "19.600s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "21s",
+              "startTime": "20.900s",
+              "word": "bir"
+            },
+            {
+              "endTime": "21.300s",
+              "startTime": "21s",
+              "word": "an\u0131"
+            },
+            {
+              "endTime": "21.500s",
+              "startTime": "21.300s",
+              "word": "Zara"
+            },
+            {
+              "endTime": "21.900s",
+              "startTime": "21.500s",
+              "word": "Hat\u0131rlarm\u0131s\u0131n"
+            },
+            {
+              "endTime": "22.800s",
+              "startTime": "21.900s",
+              "word": "aya\u011f\u0131n\u0131n"
+            },
+            {
+              "endTime": "23.500s",
+              "startTime": "22.800s",
+              "word": "kesilmesi"
+            },
+            {
+              "endTime": "25.500s",
+              "startTime": "23.500s",
+              "word": "1'den"
+            },
+            {
+              "endTime": "26s",
+              "startTime": "25.500s",
+              "word": "30'a"
+            },
+            {
+              "endTime": "26.200s",
+              "startTime": "26s",
+              "word": "kadar"
+            },
+            {
+              "endTime": "26.700s",
+              "startTime": "26.200s",
+              "word": "sayar"
+            },
+            {
+              "endTime": "27.100s",
+              "startTime": "26.700s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "27.800s",
+              "startTime": "27.100s",
+              "word": "sayar\u0131m"
+            },
+            {
+              "endTime": "28.100s",
+              "startTime": "27.800s",
+              "word": "1"
+            },
+            {
+              "endTime": "28.400s",
+              "startTime": "28.100s",
+              "word": "2"
+            },
+            {
+              "endTime": "28.500s",
+              "startTime": "28.400s",
+              "word": "3"
+            },
+            {
+              "endTime": "28.700s",
+              "startTime": "28.500s",
+              "word": "4"
+            },
+            {
+              "endTime": "28.900s",
+              "startTime": "28.700s",
+              "word": "5"
+            },
+            {
+              "endTime": "29.100s",
+              "startTime": "28.900s",
+              "word": "6"
+            },
+            {
+              "endTime": "29.400s",
+              "startTime": "29.100s",
+              "word": "7"
+            },
+            {
+              "endTime": "29.700s",
+              "startTime": "29.400s",
+              "word": "8"
+            },
+            {
+              "endTime": "29.900s",
+              "startTime": "29.700s",
+              "word": "9"
+            },
+            {
+              "endTime": "30.200s",
+              "startTime": "29.900s",
+              "word": "10"
+            },
+            {
+              "endTime": "30.400s",
+              "startTime": "30.200s",
+              "word": "11"
+            },
+            {
+              "endTime": "30.700s",
+              "startTime": "30.400s",
+              "word": "12"
+            },
+            {
+              "endTime": "31s",
+              "startTime": "30.700s",
+              "word": "13"
+            },
+            {
+              "endTime": "31.300s",
+              "startTime": "31s",
+              "word": "14"
+            },
+            {
+              "endTime": "31.700s",
+              "startTime": "31.300s",
+              "word": "15"
+            },
+            {
+              "endTime": "31.900s",
+              "startTime": "31.700s",
+              "word": "16"
+            },
+            {
+              "endTime": "32.200s",
+              "startTime": "31.900s",
+              "word": "17"
+            },
+            {
+              "endTime": "32.500s",
+              "startTime": "32.200s",
+              "word": "18"
+            },
+            {
+              "endTime": "32.900s",
+              "startTime": "32.500s",
+              "word": "19"
+            },
+            {
+              "endTime": "33.300s",
+              "startTime": "32.900s",
+              "word": "20"
+            },
+            {
+              "endTime": "33.500s",
+              "startTime": "33.300s",
+              "word": "21"
+            },
+            {
+              "endTime": "34.800s",
+              "startTime": "33.500s",
+              "word": "23"
+            },
+            {
+              "endTime": "35.100s",
+              "startTime": "34.800s",
+              "word": "24"
+            },
+            {
+              "endTime": "35.500s",
+              "startTime": "35.100s",
+              "word": "25"
+            },
+            {
+              "endTime": "35.700s",
+              "startTime": "35.500s",
+              "word": "26"
+            },
+            {
+              "endTime": "36.100s",
+              "startTime": "35.700s",
+              "word": "27"
+            },
+            {
+              "endTime": "36.500s",
+              "startTime": "36.100s",
+              "word": "28"
+            },
+            {
+              "endTime": "36.900s",
+              "startTime": "36.500s",
+              "word": "29"
+            },
+            {
+              "endTime": "37.300s",
+              "startTime": "36.900s",
+              "word": "30"
+            },
+            {
+              "endTime": "39s",
+              "startTime": "37.300s",
+              "word": "1'den"
+            },
+            {
+              "endTime": "39.200s",
+              "startTime": "39s",
+              "word": "30'a"
+            },
+            {
+              "endTime": "39.400s",
+              "startTime": "39.200s",
+              "word": "kadar"
+            },
+            {
+              "endTime": "39.800s",
+              "startTime": "39.400s",
+              "word": "h\u0131zl\u0131"
+            },
+            {
+              "endTime": "39.900s",
+              "startTime": "39.800s",
+              "word": "bir"
+            },
+            {
+              "endTime": "40s",
+              "startTime": "39.900s",
+              "word": "\u015fekilde"
+            },
+            {
+              "endTime": "40.900s",
+              "startTime": "40s",
+              "word": "sayfas\u0131n\u0131n"
+            },
+            {
+              "endTime": "41.300s",
+              "startTime": "40.900s",
+              "word": "sayar\u0131m"
+            },
+            {
+              "endTime": "41.500s",
+              "startTime": "41.300s",
+              "word": "1"
+            },
+            {
+              "endTime": "41.700s",
+              "startTime": "41.500s",
+              "word": "2"
+            },
+            {
+              "endTime": "41.800s",
+              "startTime": "41.700s",
+              "word": "3"
+            },
+            {
+              "endTime": "41.800s",
+              "startTime": "41.800s",
+              "word": "4"
+            },
+            {
+              "endTime": "42s",
+              "startTime": "41.800s",
+              "word": "5"
+            },
+            {
+              "endTime": "42.100s",
+              "startTime": "42s",
+              "word": "6"
+            },
+            {
+              "endTime": "42.400s",
+              "startTime": "42.100s",
+              "word": "7"
+            },
+            {
+              "endTime": "42.500s",
+              "startTime": "42.400s",
+              "word": "8"
+            },
+            {
+              "endTime": "42.800s",
+              "startTime": "42.500s",
+              "word": "9"
+            },
+            {
+              "endTime": "43s",
+              "startTime": "42.800s",
+              "word": "10"
+            },
+            {
+              "endTime": "43.100s",
+              "startTime": "43s",
+              "word": "11"
+            },
+            {
+              "endTime": "43.400s",
+              "startTime": "43.100s",
+              "word": "12"
+            },
+            {
+              "endTime": "43.700s",
+              "startTime": "43.400s",
+              "word": "13"
+            },
+            {
+              "endTime": "43.900s",
+              "startTime": "43.700s",
+              "word": "14"
+            },
+            {
+              "endTime": "44.300s",
+              "startTime": "43.900s",
+              "word": "15"
+            },
+            {
+              "endTime": "44.400s",
+              "startTime": "44.300s",
+              "word": "16"
+            },
+            {
+              "endTime": "44.800s",
+              "startTime": "44.400s",
+              "word": "17"
+            },
+            {
+              "endTime": "45s",
+              "startTime": "44.800s",
+              "word": "18"
+            },
+            {
+              "endTime": "45.400s",
+              "startTime": "45s",
+              "word": "19"
+            },
+            {
+              "endTime": "45.700s",
+              "startTime": "45.400s",
+              "word": "20"
+            },
+            {
+              "endTime": "45.900s",
+              "startTime": "45.700s",
+              "word": "21"
+            },
+            {
+              "endTime": "46.200s",
+              "startTime": "45.900s",
+              "word": "22"
+            },
+            {
+              "endTime": "46.900s",
+              "startTime": "46.200s",
+              "word": "23"
+            },
+            {
+              "endTime": "47.200s",
+              "startTime": "46.900s",
+              "word": "24"
+            },
+            {
+              "endTime": "47.600s",
+              "startTime": "47.200s",
+              "word": "25"
+            },
+            {
+              "endTime": "47.900s",
+              "startTime": "47.600s",
+              "word": "26"
+            },
+            {
+              "endTime": "48.300s",
+              "startTime": "47.900s",
+              "word": "27"
+            },
+            {
+              "endTime": "48.600s",
+              "startTime": "48.300s",
+              "word": "28"
+            },
+            {
+              "endTime": "51.300s",
+              "startTime": "48.600s",
+              "word": "sayfalar\u0131"
+            },
+            {
+              "endTime": "51.500s",
+              "startTime": "51.300s",
+              "word": "resmi"
+            },
+            {
+              "endTime": "52.200s",
+              "startTime": "51.500s",
+              "word": "anlat\u0131m\u0131"
+            },
+            {
+              "endTime": "52.600s",
+              "startTime": "52.200s",
+              "word": "sizden"
+            },
+            {
+              "endTime": "52.800s",
+              "startTime": "52.600s",
+              "word": "nefret"
+            },
+            {
+              "endTime": "53.800s",
+              "startTime": "52.800s",
+              "word": "ettirdi"
+            },
+            {
+              "endTime": "55.600s",
+              "startTime": "53.800s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "56s",
+              "startTime": "55.600s",
+              "word": "aile"
+            },
+            {
+              "endTime": "56.100s",
+              "startTime": "56s",
+              "word": "tablosu"
+            },
+            {
+              "endTime": "57.200s",
+              "startTime": "56.100s",
+              "word": "hissettirdi"
+            },
+            {
+              "endTime": "58.800s",
+              "startTime": "57.200s",
+              "word": "hissettim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7775786,
+          "transcript": "e\u015fofmanl\u0131 en g\u00fczel Hatta anlat\u0131lmas\u0131 e\u015fime tan\u0131\u015fma te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "61s",
+              "startTime": "60.300s",
+              "word": "e\u015fofmanl\u0131"
+            },
+            {
+              "endTime": "61.200s",
+              "startTime": "61s",
+              "word": "en"
+            },
+            {
+              "endTime": "61.400s",
+              "startTime": "61.200s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "61.700s",
+              "startTime": "61.400s",
+              "word": "Hatta"
+            },
+            {
+              "endTime": "62.800s",
+              "startTime": "61.700s",
+              "word": "anlat\u0131lmas\u0131"
+            },
+            {
+              "endTime": "63.300s",
+              "startTime": "62.800s",
+              "word": "e\u015fime"
+            },
+            {
+              "endTime": "63.800s",
+              "startTime": "63.300s",
+              "word": "tan\u0131\u015fma"
+            },
+            {
+              "endTime": "65.300s",
+              "startTime": "63.800s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

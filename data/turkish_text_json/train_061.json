@@ -1,0 +1,280 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7169652,
+          "transcript": "buraya kadar geldi B\u00fct\u00fcn kontrollerinde hamilelik testi",
+          "words": [
+            {
+              "endTime": "1.700s",
+              "startTime": "0.900s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "1.800s",
+              "startTime": "1.700s",
+              "word": "kadar"
+            },
+            {
+              "endTime": "2.300s",
+              "startTime": "1.800s",
+              "word": "geldi"
+            },
+            {
+              "endTime": "3.400s",
+              "startTime": "2.300s",
+              "word": "B\u00fct\u00fcn"
+            },
+            {
+              "endTime": "4.200s",
+              "startTime": "3.400s",
+              "word": "kontrollerinde"
+            },
+            {
+              "endTime": "4.800s",
+              "startTime": "4.200s",
+              "word": "hamilelik"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.800s",
+              "word": "testi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6875558,
+          "transcript": " Pilotaj",
+          "words": [
+            {
+              "endTime": "14.200s",
+              "startTime": "13.300s",
+              "word": "Pilotaj"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8708781,
+          "transcript": " k\u00f6t\u00fc bir hat\u0131ram senin gibi birisini be anne k\u0131z bu oluyordu \u00e7ok korkmu\u015ftum \u00e7ok k\u00f6t\u00fc bir hat\u0131ram olmad\u0131 12345678",
+          "words": [
+            {
+              "endTime": "17.600s",
+              "startTime": "17.100s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "17.800s",
+              "startTime": "17.600s",
+              "word": "bir"
+            },
+            {
+              "endTime": "18.200s",
+              "startTime": "17.800s",
+              "word": "hat\u0131ram"
+            },
+            {
+              "endTime": "19.100s",
+              "startTime": "18.200s",
+              "word": "senin"
+            },
+            {
+              "endTime": "19.300s",
+              "startTime": "19.100s",
+              "word": "gibi"
+            },
+            {
+              "endTime": "20.500s",
+              "startTime": "19.300s",
+              "word": "birisini"
+            },
+            {
+              "endTime": "20.900s",
+              "startTime": "20.500s",
+              "word": "be"
+            },
+            {
+              "endTime": "21.200s",
+              "startTime": "20.900s",
+              "word": "anne"
+            },
+            {
+              "endTime": "21.900s",
+              "startTime": "21.200s",
+              "word": "k\u0131z"
+            },
+            {
+              "endTime": "22.100s",
+              "startTime": "21.900s",
+              "word": "bu"
+            },
+            {
+              "endTime": "22.500s",
+              "startTime": "22.100s",
+              "word": "oluyordu"
+            },
+            {
+              "endTime": "22.600s",
+              "startTime": "22.500s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "23.300s",
+              "startTime": "22.600s",
+              "word": "korkmu\u015ftum"
+            },
+            {
+              "endTime": "24.100s",
+              "startTime": "23.300s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "24.300s",
+              "startTime": "24.100s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "24.400s",
+              "startTime": "24.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "24.700s",
+              "startTime": "24.400s",
+              "word": "hat\u0131ram"
+            },
+            {
+              "endTime": "25.200s",
+              "startTime": "24.700s",
+              "word": "olmad\u0131"
+            },
+            {
+              "endTime": "34s",
+              "startTime": "25.200s",
+              "word": "12345678"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6575346,
+          "transcript": " h\u0131zl\u0131 bir \u015fekilde 12345678",
+          "words": [
+            {
+              "endTime": "38s",
+              "startTime": "37.400s",
+              "word": "h\u0131zl\u0131"
+            },
+            {
+              "endTime": "38.100s",
+              "startTime": "38s",
+              "word": "bir"
+            },
+            {
+              "endTime": "38.100s",
+              "startTime": "38.100s",
+              "word": "\u015fekilde"
+            },
+            {
+              "endTime": "44.800s",
+              "startTime": "38.100s",
+              "word": "12345678"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.58161235,
+          "transcript": " hi\u00e7 merak etme b\u00fct\u00fcn",
+          "words": [
+            {
+              "endTime": "58s",
+              "startTime": "57.400s",
+              "word": "hi\u00e7"
+            },
+            {
+              "endTime": "58.400s",
+              "startTime": "58s",
+              "word": "merak"
+            },
+            {
+              "endTime": "60.600s",
+              "startTime": "58.400s",
+              "word": "etme"
+            },
+            {
+              "endTime": "70.300s",
+              "startTime": "60.600s",
+              "word": "b\u00fct\u00fcn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7568879,
+          "transcript": " Bug\u00fcn do\u011fum g\u00fcn\u00fcnde \u00e7ok a\u015f\u0131k oldum \u00c7ok te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "73.300s",
+              "startTime": "72.800s",
+              "word": "Bug\u00fcn"
+            },
+            {
+              "endTime": "73.500s",
+              "startTime": "73.300s",
+              "word": "do\u011fum"
+            },
+            {
+              "endTime": "73.900s",
+              "startTime": "73.500s",
+              "word": "g\u00fcn\u00fcnde"
+            },
+            {
+              "endTime": "74.200s",
+              "startTime": "73.900s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "74.500s",
+              "startTime": "74.200s",
+              "word": "a\u015f\u0131k"
+            },
+            {
+              "endTime": "74.800s",
+              "startTime": "74.500s",
+              "word": "oldum"
+            },
+            {
+              "endTime": "79.300s",
+              "startTime": "74.800s",
+              "word": "\u00c7ok"
+            },
+            {
+              "endTime": "82.100s",
+              "startTime": "79.300s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

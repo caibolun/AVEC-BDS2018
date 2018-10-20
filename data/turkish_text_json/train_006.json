@@ -1,0 +1,390 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71828663,
+          "transcript": "Renault korkumu anlatmak i\u00e7in yani Doktor almaya geldim her \u015feyi ara Aleyna'y\u0131 bir \u015fey olacak korkusu var o y\u00fczden",
+          "words": [
+            {
+              "endTime": "4.500s",
+              "startTime": "2.700s",
+              "word": "Renault"
+            },
+            {
+              "endTime": "4.900s",
+              "startTime": "4.500s",
+              "word": "korkumu"
+            },
+            {
+              "endTime": "5.400s",
+              "startTime": "4.900s",
+              "word": "anlatmak"
+            },
+            {
+              "endTime": "5.600s",
+              "startTime": "5.400s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "6.300s",
+              "startTime": "5.600s",
+              "word": "yani"
+            },
+            {
+              "endTime": "8s",
+              "startTime": "6.300s",
+              "word": "Doktor"
+            },
+            {
+              "endTime": "8.500s",
+              "startTime": "8s",
+              "word": "almaya"
+            },
+            {
+              "endTime": "9s",
+              "startTime": "8.500s",
+              "word": "geldim"
+            },
+            {
+              "endTime": "9.800s",
+              "startTime": "9s",
+              "word": "her"
+            },
+            {
+              "endTime": "10s",
+              "startTime": "9.800s",
+              "word": "\u015feyi"
+            },
+            {
+              "endTime": "10.100s",
+              "startTime": "10s",
+              "word": "ara"
+            },
+            {
+              "endTime": "10.600s",
+              "startTime": "10.100s",
+              "word": "Aleyna'y\u0131"
+            },
+            {
+              "endTime": "11.700s",
+              "startTime": "10.600s",
+              "word": "bir"
+            },
+            {
+              "endTime": "11.800s",
+              "startTime": "11.700s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "12.100s",
+              "startTime": "11.800s",
+              "word": "olacak"
+            },
+            {
+              "endTime": "12.500s",
+              "startTime": "12.100s",
+              "word": "korkusu"
+            },
+            {
+              "endTime": "12.900s",
+              "startTime": "12.500s",
+              "word": "var"
+            },
+            {
+              "endTime": "13.100s",
+              "startTime": "12.900s",
+              "word": "o"
+            },
+            {
+              "endTime": "14.400s",
+              "startTime": "13.100s",
+              "word": "y\u00fczden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6962735,
+          "transcript": " \u00fcz\u00fcnt\u00fcl\u00fc \u00e7ok pahal\u0131 kahveler \u00e7ok \u00fcz\u00fcnt\u00fcl\u00fc \u00e7ok d\u00fczg\u00fcn bir resim var",
+          "words": [
+            {
+              "endTime": "19.800s",
+              "startTime": "18s",
+              "word": "\u00fcz\u00fcnt\u00fcl\u00fc"
+            },
+            {
+              "endTime": "19.900s",
+              "startTime": "19.800s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "20.400s",
+              "startTime": "19.900s",
+              "word": "pahal\u0131"
+            },
+            {
+              "endTime": "21.100s",
+              "startTime": "20.400s",
+              "word": "kahveler"
+            },
+            {
+              "endTime": "21.300s",
+              "startTime": "21.100s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "22s",
+              "startTime": "21.300s",
+              "word": "\u00fcz\u00fcnt\u00fcl\u00fc"
+            },
+            {
+              "endTime": "22.100s",
+              "startTime": "22s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "22.800s",
+              "startTime": "22.100s",
+              "word": "d\u00fczg\u00fcn"
+            },
+            {
+              "endTime": "23.800s",
+              "startTime": "22.800s",
+              "word": "bir"
+            },
+            {
+              "endTime": "23.800s",
+              "startTime": "23.800s",
+              "word": "resim"
+            },
+            {
+              "endTime": "24.600s",
+              "startTime": "23.800s",
+              "word": "var"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8463032,
+          "transcript": " b\u00fct\u00fcn Galatasaray bayram mesaj\u0131 size de hay\u0131rl\u0131 cumalar\u0131n olsun 19 20 21 22 23 24 25 26 27 28 mutlu aile tablosu var mutlu mesut birlikte yat\u0131yorlar resim yar\u0131\u015fmas\u0131 hikaye videolar\u0131",
+          "words": [
+            {
+              "endTime": "28s",
+              "startTime": "27.500s",
+              "word": "b\u00fct\u00fcn"
+            },
+            {
+              "endTime": "29s",
+              "startTime": "28s",
+              "word": "Galatasaray"
+            },
+            {
+              "endTime": "29.700s",
+              "startTime": "29s",
+              "word": "bayram"
+            },
+            {
+              "endTime": "31.100s",
+              "startTime": "29.700s",
+              "word": "mesaj\u0131"
+            },
+            {
+              "endTime": "32.700s",
+              "startTime": "31.100s",
+              "word": "size"
+            },
+            {
+              "endTime": "32.800s",
+              "startTime": "32.700s",
+              "word": "de"
+            },
+            {
+              "endTime": "40.300s",
+              "startTime": "32.800s",
+              "word": "hay\u0131rl\u0131"
+            },
+            {
+              "endTime": "41.200s",
+              "startTime": "40.300s",
+              "word": "cumalar\u0131n"
+            },
+            {
+              "endTime": "41.300s",
+              "startTime": "41.200s",
+              "word": "olsun"
+            },
+            {
+              "endTime": "41.800s",
+              "startTime": "41.300s",
+              "word": "19"
+            },
+            {
+              "endTime": "42.100s",
+              "startTime": "41.800s",
+              "word": "20"
+            },
+            {
+              "endTime": "42.400s",
+              "startTime": "42.100s",
+              "word": "21"
+            },
+            {
+              "endTime": "42.700s",
+              "startTime": "42.400s",
+              "word": "22"
+            },
+            {
+              "endTime": "42.900s",
+              "startTime": "42.700s",
+              "word": "23"
+            },
+            {
+              "endTime": "43.100s",
+              "startTime": "42.900s",
+              "word": "24"
+            },
+            {
+              "endTime": "43.400s",
+              "startTime": "43.100s",
+              "word": "25"
+            },
+            {
+              "endTime": "43.700s",
+              "startTime": "43.400s",
+              "word": "26"
+            },
+            {
+              "endTime": "44.100s",
+              "startTime": "43.700s",
+              "word": "27"
+            },
+            {
+              "endTime": "44.700s",
+              "startTime": "44.100s",
+              "word": "28"
+            },
+            {
+              "endTime": "58.500s",
+              "startTime": "44.700s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "59s",
+              "startTime": "58.500s",
+              "word": "aile"
+            },
+            {
+              "endTime": "59.100s",
+              "startTime": "59s",
+              "word": "tablosu"
+            },
+            {
+              "endTime": "60.500s",
+              "startTime": "59.100s",
+              "word": "var"
+            },
+            {
+              "endTime": "61.300s",
+              "startTime": "60.500s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "61.600s",
+              "startTime": "61.300s",
+              "word": "mesut"
+            },
+            {
+              "endTime": "62s",
+              "startTime": "61.600s",
+              "word": "birlikte"
+            },
+            {
+              "endTime": "62.500s",
+              "startTime": "62s",
+              "word": "yat\u0131yorlar"
+            },
+            {
+              "endTime": "64.700s",
+              "startTime": "62.500s",
+              "word": "resim"
+            },
+            {
+              "endTime": "65.300s",
+              "startTime": "64.700s",
+              "word": "yar\u0131\u015fmas\u0131"
+            },
+            {
+              "endTime": "65.600s",
+              "startTime": "65.300s",
+              "word": "hikaye"
+            },
+            {
+              "endTime": "65.900s",
+              "startTime": "65.600s",
+              "word": "videolar\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81459993,
+          "transcript": " duygulara gitmek istiyorum \u0130yi bir arabas\u0131 istiyorum Te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "69.600s",
+              "startTime": "68.500s",
+              "word": "duygulara"
+            },
+            {
+              "endTime": "69.900s",
+              "startTime": "69.600s",
+              "word": "gitmek"
+            },
+            {
+              "endTime": "70.300s",
+              "startTime": "69.900s",
+              "word": "istiyorum"
+            },
+            {
+              "endTime": "71.200s",
+              "startTime": "70.300s",
+              "word": "\u0130yi"
+            },
+            {
+              "endTime": "71.400s",
+              "startTime": "71.200s",
+              "word": "bir"
+            },
+            {
+              "endTime": "72.400s",
+              "startTime": "71.400s",
+              "word": "arabas\u0131"
+            },
+            {
+              "endTime": "72.900s",
+              "startTime": "72.400s",
+              "word": "istiyorum"
+            },
+            {
+              "endTime": "74.800s",
+              "startTime": "72.900s",
+              "word": "Te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

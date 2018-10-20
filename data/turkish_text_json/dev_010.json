@@ -1,0 +1,320 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81360483,
+          "transcript": "Merhaba iyile\u015fmek i\u00e7in geldim",
+          "words": [
+            {
+              "endTime": "0.300s",
+              "startTime": "0s",
+              "word": "Merhaba"
+            },
+            {
+              "endTime": "2s",
+              "startTime": "0.300s",
+              "word": "iyile\u015fmek"
+            },
+            {
+              "endTime": "2s",
+              "startTime": "2s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "2.500s",
+              "startTime": "2s",
+              "word": "geldim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8299105,
+          "transcript": " daha mutsuz karamsar k\u00f6t\u00fc bir adam bir g\u00fcn Arka Sokaklar",
+          "words": [
+            {
+              "endTime": "5.700s",
+              "startTime": "5.100s",
+              "word": "daha"
+            },
+            {
+              "endTime": "6.700s",
+              "startTime": "5.700s",
+              "word": "mutsuz"
+            },
+            {
+              "endTime": "7.800s",
+              "startTime": "6.700s",
+              "word": "karamsar"
+            },
+            {
+              "endTime": "10.800s",
+              "startTime": "7.800s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "10.900s",
+              "startTime": "10.800s",
+              "word": "bir"
+            },
+            {
+              "endTime": "11s",
+              "startTime": "10.900s",
+              "word": "adam"
+            },
+            {
+              "endTime": "18.200s",
+              "startTime": "11s",
+              "word": "bir"
+            },
+            {
+              "endTime": "18.600s",
+              "startTime": "18.200s",
+              "word": "g\u00fcn"
+            },
+            {
+              "endTime": "18.900s",
+              "startTime": "18.600s",
+              "word": "Arka"
+            },
+            {
+              "endTime": "18.900s",
+              "startTime": "18.900s",
+              "word": "Sokaklar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.66015875,
+          "transcript": " Tamam abi Lisesi",
+          "words": [
+            {
+              "endTime": "30.700s",
+              "startTime": "30.100s",
+              "word": "Tamam"
+            },
+            {
+              "endTime": "30.900s",
+              "startTime": "30.700s",
+              "word": "abi"
+            },
+            {
+              "endTime": "36.300s",
+              "startTime": "30.900s",
+              "word": "Lisesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8508558,
+          "transcript": " mutluluk",
+          "words": [
+            {
+              "endTime": "45.600s",
+              "startTime": "44.100s",
+              "word": "mutluluk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91818136,
+          "transcript": " \u00e7ay i\u00e7mek bitti",
+          "words": [
+            {
+              "endTime": "48.800s",
+              "startTime": "48.200s",
+              "word": "\u00e7ay"
+            },
+            {
+              "endTime": "49.100s",
+              "startTime": "48.800s",
+              "word": "i\u00e7mek"
+            },
+            {
+              "endTime": "50.100s",
+              "startTime": "49.100s",
+              "word": "bitti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81360495,
+          "transcript": "Merhaba iyile\u015fmek i\u00e7in geldim",
+          "words": [
+            {
+              "endTime": "0.300s",
+              "startTime": "0s",
+              "word": "Merhaba"
+            },
+            {
+              "endTime": "2s",
+              "startTime": "0.300s",
+              "word": "iyile\u015fmek"
+            },
+            {
+              "endTime": "2s",
+              "startTime": "2s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "2.500s",
+              "startTime": "2s",
+              "word": "geldim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8299121,
+          "transcript": " daha mutsuz karamsar k\u00f6t\u00fc bir adam bir g\u00fcn Arka Sokaklar",
+          "words": [
+            {
+              "endTime": "5.700s",
+              "startTime": "5.100s",
+              "word": "daha"
+            },
+            {
+              "endTime": "6.700s",
+              "startTime": "5.700s",
+              "word": "mutsuz"
+            },
+            {
+              "endTime": "7.800s",
+              "startTime": "6.700s",
+              "word": "karamsar"
+            },
+            {
+              "endTime": "10.800s",
+              "startTime": "7.800s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "10.900s",
+              "startTime": "10.800s",
+              "word": "bir"
+            },
+            {
+              "endTime": "11s",
+              "startTime": "10.900s",
+              "word": "adam"
+            },
+            {
+              "endTime": "18.200s",
+              "startTime": "11s",
+              "word": "bir"
+            },
+            {
+              "endTime": "18.600s",
+              "startTime": "18.200s",
+              "word": "g\u00fcn"
+            },
+            {
+              "endTime": "18.900s",
+              "startTime": "18.600s",
+              "word": "Arka"
+            },
+            {
+              "endTime": "18.900s",
+              "startTime": "18.900s",
+              "word": "Sokaklar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6601585,
+          "transcript": " Tamam abi Lisesi",
+          "words": [
+            {
+              "endTime": "30.700s",
+              "startTime": "30.100s",
+              "word": "Tamam"
+            },
+            {
+              "endTime": "30.900s",
+              "startTime": "30.700s",
+              "word": "abi"
+            },
+            {
+              "endTime": "36.300s",
+              "startTime": "30.900s",
+              "word": "Lisesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8508532,
+          "transcript": " mutluluk",
+          "words": [
+            {
+              "endTime": "45.600s",
+              "startTime": "44.100s",
+              "word": "mutluluk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9181803,
+          "transcript": " \u00e7ay i\u00e7mek bitti",
+          "words": [
+            {
+              "endTime": "48.800s",
+              "startTime": "48.200s",
+              "word": "\u00e7ay"
+            },
+            {
+              "endTime": "49.100s",
+              "startTime": "48.800s",
+              "word": "i\u00e7mek"
+            },
+            {
+              "endTime": "50.100s",
+              "startTime": "49.100s",
+              "word": "bitti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

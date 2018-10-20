@@ -1,0 +1,650 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6112388,
+          "transcript": "m\u00fckemmel sevgilisi",
+          "words": [
+            {
+              "endTime": "4.600s",
+              "startTime": "3.800s",
+              "word": "m\u00fckemmel"
+            },
+            {
+              "endTime": "5.300s",
+              "startTime": "4.600s",
+              "word": "sevgilisi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8487177,
+          "transcript": " l\u00fctfen her s\u00f6ze verilecek g\u00f6revlerini tamamlad\u0131ktan sonra Bo\u015fluk tu\u015funa bas\u0131n\u0131z buraya geldi\u011finizde anlat\u0131r m\u0131s\u0131n\u0131z",
+          "words": [
+            {
+              "endTime": "9.900s",
+              "startTime": "9.100s",
+              "word": "l\u00fctfen"
+            },
+            {
+              "endTime": "10.100s",
+              "startTime": "9.900s",
+              "word": "her"
+            },
+            {
+              "endTime": "10.500s",
+              "startTime": "10.100s",
+              "word": "s\u00f6ze"
+            },
+            {
+              "endTime": "10.600s",
+              "startTime": "10.500s",
+              "word": "verilecek"
+            },
+            {
+              "endTime": "12.200s",
+              "startTime": "10.600s",
+              "word": "g\u00f6revlerini"
+            },
+            {
+              "endTime": "12.800s",
+              "startTime": "12.200s",
+              "word": "tamamlad\u0131ktan"
+            },
+            {
+              "endTime": "13.200s",
+              "startTime": "12.800s",
+              "word": "sonra"
+            },
+            {
+              "endTime": "13.600s",
+              "startTime": "13.200s",
+              "word": "Bo\u015fluk"
+            },
+            {
+              "endTime": "13.700s",
+              "startTime": "13.600s",
+              "word": "tu\u015funa"
+            },
+            {
+              "endTime": "14.400s",
+              "startTime": "13.700s",
+              "word": "bas\u0131n\u0131z"
+            },
+            {
+              "endTime": "16.100s",
+              "startTime": "14.400s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "16.800s",
+              "startTime": "16.100s",
+              "word": "geldi\u011finizde"
+            },
+            {
+              "endTime": "17.200s",
+              "startTime": "16.800s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "17.500s",
+              "startTime": "17.200s",
+              "word": "m\u0131s\u0131n\u0131z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6164024,
+          "transcript": " Hasan anl\u0131yor musun",
+          "words": [
+            {
+              "endTime": "19s",
+              "startTime": "18.400s",
+              "word": "Hasan"
+            },
+            {
+              "endTime": "19.400s",
+              "startTime": "19s",
+              "word": "anl\u0131yor"
+            },
+            {
+              "endTime": "19.600s",
+              "startTime": "19.400s",
+              "word": "musun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82528985,
+          "transcript": " Epilepsi ve bipolar duygulan\u0131m bozuklu\u011fu tan\u0131s\u0131 kalmad\u0131\u011f\u0131 i\u00e7in b\u0131rakt\u0131m",
+          "words": [
+            {
+              "endTime": "23.200s",
+              "startTime": "22.400s",
+              "word": "Epilepsi"
+            },
+            {
+              "endTime": "23.400s",
+              "startTime": "23.200s",
+              "word": "ve"
+            },
+            {
+              "endTime": "25.200s",
+              "startTime": "23.400s",
+              "word": "bipolar"
+            },
+            {
+              "endTime": "25.900s",
+              "startTime": "25.200s",
+              "word": "duygulan\u0131m"
+            },
+            {
+              "endTime": "26.800s",
+              "startTime": "25.900s",
+              "word": "bozuklu\u011fu"
+            },
+            {
+              "endTime": "27.100s",
+              "startTime": "26.800s",
+              "word": "tan\u0131s\u0131"
+            },
+            {
+              "endTime": "27.700s",
+              "startTime": "27.100s",
+              "word": "kalmad\u0131\u011f\u0131"
+            },
+            {
+              "endTime": "27.700s",
+              "startTime": "27.700s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "28.800s",
+              "startTime": "27.700s",
+              "word": "b\u0131rakt\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.73512137,
+          "transcript": " gelecek olan sevgi resmi anlat\u0131r m\u0131s\u0131n\u0131z Sizi neler d\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcn\u00fc hissettirdi",
+          "words": [
+            {
+              "endTime": "31.400s",
+              "startTime": "30.700s",
+              "word": "gelecek"
+            },
+            {
+              "endTime": "31.600s",
+              "startTime": "31.400s",
+              "word": "olan"
+            },
+            {
+              "endTime": "31.900s",
+              "startTime": "31.600s",
+              "word": "sevgi"
+            },
+            {
+              "endTime": "34s",
+              "startTime": "31.900s",
+              "word": "resmi"
+            },
+            {
+              "endTime": "34.800s",
+              "startTime": "34s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "35.100s",
+              "startTime": "34.800s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "36s",
+              "startTime": "35.100s",
+              "word": "Sizi"
+            },
+            {
+              "endTime": "36.300s",
+              "startTime": "36s",
+              "word": "neler"
+            },
+            {
+              "endTime": "36.800s",
+              "startTime": "36.300s",
+              "word": "d\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcn\u00fc"
+            },
+            {
+              "endTime": "37.600s",
+              "startTime": "36.800s",
+              "word": "hissettirdi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8063493,
+          "transcript": " umutsuz biri",
+          "words": [
+            {
+              "endTime": "44.900s",
+              "startTime": "42.400s",
+              "word": "umutsuz"
+            },
+            {
+              "endTime": "45.200s",
+              "startTime": "44.900s",
+              "word": "biri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8906328,
+          "transcript": " fakir",
+          "words": [
+            {
+              "endTime": "52.200s",
+              "startTime": "49.800s",
+              "word": "fakir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82934076,
+          "transcript": " duyguland\u0131ran",
+          "words": [
+            {
+              "endTime": "57.200s",
+              "startTime": "56.300s",
+              "word": "duyguland\u0131ran"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.793244,
+          "transcript": " k\u0131z bulant\u0131lar\u0131n\u0131z anlat\u0131r m\u0131s\u0131n",
+          "words": [
+            {
+              "endTime": "62.600s",
+              "startTime": "60.500s",
+              "word": "k\u0131z"
+            },
+            {
+              "endTime": "63.400s",
+              "startTime": "62.600s",
+              "word": "bulant\u0131lar\u0131n\u0131z"
+            },
+            {
+              "endTime": "63.800s",
+              "startTime": "63.400s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "64.100s",
+              "startTime": "63.800s",
+              "word": "m\u0131s\u0131n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7865822,
+          "transcript": " k\u00f6t\u00fc bir hat\u0131ra",
+          "words": [
+            {
+              "endTime": "71.700s",
+              "startTime": "71.200s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "71.900s",
+              "startTime": "71.700s",
+              "word": "bir"
+            },
+            {
+              "endTime": "72.300s",
+              "startTime": "71.900s",
+              "word": "hat\u0131ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6923019,
+          "transcript": " 2012'nin 2017/7 i\u00e7in y\u0131lba\u015f\u0131nda hastaneye yapm\u0131\u015ft\u0131r Kezban",
+          "words": [
+            {
+              "endTime": "83.200s",
+              "startTime": "79.700s",
+              "word": "2012'nin"
+            },
+            {
+              "endTime": "83.900s",
+              "startTime": "83.200s",
+              "word": "2017/7"
+            },
+            {
+              "endTime": "84.300s",
+              "startTime": "83.900s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "86s",
+              "startTime": "84.300s",
+              "word": "y\u0131lba\u015f\u0131nda"
+            },
+            {
+              "endTime": "86.600s",
+              "startTime": "86s",
+              "word": "hastaneye"
+            },
+            {
+              "endTime": "87.100s",
+              "startTime": "86.600s",
+              "word": "yapm\u0131\u015ft\u0131r"
+            },
+            {
+              "endTime": "87.700s",
+              "startTime": "87.100s",
+              "word": "Kezban"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7762281,
+          "transcript": " Bal\u0131kesir",
+          "words": [
+            {
+              "endTime": "93.100s",
+              "startTime": "91.700s",
+              "word": "Bal\u0131kesir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6293993,
+          "transcript": " bilim insan\u0131 Dershanesi",
+          "words": [
+            {
+              "endTime": "96.200s",
+              "startTime": "95.700s",
+              "word": "bilim"
+            },
+            {
+              "endTime": "96.600s",
+              "startTime": "96.200s",
+              "word": "insan\u0131"
+            },
+            {
+              "endTime": "96.900s",
+              "startTime": "96.600s",
+              "word": "Dershanesi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.68387204,
+          "transcript": " Bizans o kadar \u00e7al\u0131\u015f\u0131yor musunuz",
+          "words": [
+            {
+              "endTime": "111.100s",
+              "startTime": "108.600s",
+              "word": "Bizans"
+            },
+            {
+              "endTime": "111.200s",
+              "startTime": "111.100s",
+              "word": "o"
+            },
+            {
+              "endTime": "111.500s",
+              "startTime": "111.200s",
+              "word": "kadar"
+            },
+            {
+              "endTime": "111.800s",
+              "startTime": "111.500s",
+              "word": "\u00e7al\u0131\u015f\u0131yor"
+            },
+            {
+              "endTime": "112.600s",
+              "startTime": "111.800s",
+              "word": "musunuz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.80356854,
+          "transcript": " trigonometrik bir tanem anlat\u0131r m\u0131s\u0131n\u0131z size neler d\u00fc\u015f\u00fcnd\u00fcrmektedir",
+          "words": [
+            {
+              "endTime": "129.300s",
+              "startTime": "128s",
+              "word": "trigonometrik"
+            },
+            {
+              "endTime": "129.500s",
+              "startTime": "129.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "130.600s",
+              "startTime": "129.500s",
+              "word": "tanem"
+            },
+            {
+              "endTime": "131.400s",
+              "startTime": "130.600s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "131.700s",
+              "startTime": "131.400s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "132.100s",
+              "startTime": "131.700s",
+              "word": "size"
+            },
+            {
+              "endTime": "132.400s",
+              "startTime": "132.100s",
+              "word": "neler"
+            },
+            {
+              "endTime": "132.900s",
+              "startTime": "132.400s",
+              "word": "d\u00fc\u015f\u00fcnd\u00fcrmektedir"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6377645,
+          "transcript": " Allah'\u0131m hay\u0131rl\u0131 bir dua et al",
+          "words": [
+            {
+              "endTime": "138.900s",
+              "startTime": "137.400s",
+              "word": "Allah'\u0131m"
+            },
+            {
+              "endTime": "139.300s",
+              "startTime": "138.900s",
+              "word": "hay\u0131rl\u0131"
+            },
+            {
+              "endTime": "139.500s",
+              "startTime": "139.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "139.700s",
+              "startTime": "139.500s",
+              "word": "dua"
+            },
+            {
+              "endTime": "140.200s",
+              "startTime": "139.700s",
+              "word": "et"
+            },
+            {
+              "endTime": "140.300s",
+              "startTime": "140.200s",
+              "word": "al"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.61455005,
+          "transcript": " en g\u00fczel hat\u0131ra h\u0131zl\u0131 anlat\u0131r\u0131m sana",
+          "words": [
+            {
+              "endTime": "145s",
+              "startTime": "143.900s",
+              "word": "en"
+            },
+            {
+              "endTime": "145.300s",
+              "startTime": "145s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "145.700s",
+              "startTime": "145.300s",
+              "word": "hat\u0131ra"
+            },
+            {
+              "endTime": "146s",
+              "startTime": "145.700s",
+              "word": "h\u0131zl\u0131"
+            },
+            {
+              "endTime": "146.500s",
+              "startTime": "146s",
+              "word": "anlat\u0131r\u0131m"
+            },
+            {
+              "endTime": "146.700s",
+              "startTime": "146.500s",
+              "word": "sana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6847735,
+          "transcript": " te\u015fekk\u00fcr ve takdir belgesini ald\u0131m",
+          "words": [
+            {
+              "endTime": "151.200s",
+              "startTime": "150.300s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "151.300s",
+              "startTime": "151.200s",
+              "word": "ve"
+            },
+            {
+              "endTime": "151.400s",
+              "startTime": "151.300s",
+              "word": "takdir"
+            },
+            {
+              "endTime": "153.200s",
+              "startTime": "151.400s",
+              "word": "belgesini"
+            },
+            {
+              "endTime": "153.600s",
+              "startTime": "153.200s",
+              "word": "ald\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71112645,
+          "transcript": " T\u00fcrklerin",
+          "words": [
+            {
+              "endTime": "156s",
+              "startTime": "155s",
+              "word": "T\u00fcrklerin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77579904,
+          "transcript": "\u00e7a\u011fr\u0131ld\u0131m doktor oldu\u011funu d\u00fc\u015f\u00fcnd\u00fcm",
+          "words": [
+            {
+              "endTime": "14.900s",
+              "startTime": "0s",
+              "word": "\u00e7a\u011fr\u0131ld\u0131m"
+            },
+            {
+              "endTime": "16.900s",
+              "startTime": "14.900s",
+              "word": "doktor"
+            },
+            {
+              "endTime": "17.200s",
+              "startTime": "16.900s",
+              "word": "oldu\u011funu"
+            },
+            {
+              "endTime": "17.600s",
+              "startTime": "17.200s",
+              "word": "d\u00fc\u015f\u00fcnd\u00fcm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.58589417,
+          "transcript": " dedelerimizin ne istediniz",
+          "words": [
+            {
+              "endTime": "24.400s",
+              "startTime": "20.800s",
+              "word": "dedelerimizin"
+            },
+            {
+              "endTime": "24.900s",
+              "startTime": "24.400s",
+              "word": "ne"
+            },
+            {
+              "endTime": "29.700s",
+              "startTime": "24.900s",
+              "word": "istediniz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83753115,
+          "transcript": " 1234567",
+          "words": [
+            {
+              "endTime": "72.700s",
+              "startTime": "68.100s",
+              "word": "1234567"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

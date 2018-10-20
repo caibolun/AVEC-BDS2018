@@ -1,0 +1,230 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6918503,
+          "transcript": "Almanya'da gezmek i\u00e7in geldim buraya gelemiyor kusura bakma Seni \u00e7ok seviyorum s\u00f6zleri",
+          "words": [
+            {
+              "endTime": "0.900s",
+              "startTime": "0s",
+              "word": "Almanya'da"
+            },
+            {
+              "endTime": "1.100s",
+              "startTime": "0.900s",
+              "word": "gezmek"
+            },
+            {
+              "endTime": "3.200s",
+              "startTime": "1.100s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "3.500s",
+              "startTime": "3.200s",
+              "word": "geldim"
+            },
+            {
+              "endTime": "3.700s",
+              "startTime": "3.500s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "13.400s",
+              "startTime": "3.700s",
+              "word": "gelemiyor"
+            },
+            {
+              "endTime": "14.900s",
+              "startTime": "13.400s",
+              "word": "kusura"
+            },
+            {
+              "endTime": "19.600s",
+              "startTime": "14.900s",
+              "word": "bakma"
+            },
+            {
+              "endTime": "19.900s",
+              "startTime": "19.600s",
+              "word": "Seni"
+            },
+            {
+              "endTime": "20.500s",
+              "startTime": "19.900s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "20.700s",
+              "startTime": "20.500s",
+              "word": "seviyorum"
+            },
+            {
+              "endTime": "38.700s",
+              "startTime": "20.700s",
+              "word": "s\u00f6zleri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.61035186,
+          "transcript": "g\u00fczel bir yuva a\u015fa\u011f\u0131daki var m\u0131",
+          "words": [
+            {
+              "endTime": "41s",
+              "startTime": "40.500s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "41.100s",
+              "startTime": "41s",
+              "word": "bir"
+            },
+            {
+              "endTime": "41.300s",
+              "startTime": "41.100s",
+              "word": "yuva"
+            },
+            {
+              "endTime": "42.600s",
+              "startTime": "41.300s",
+              "word": "a\u015fa\u011f\u0131daki"
+            },
+            {
+              "endTime": "42.800s",
+              "startTime": "42.600s",
+              "word": "var"
+            },
+            {
+              "endTime": "42.900s",
+              "startTime": "42.800s",
+              "word": "m\u0131"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.69185024,
+          "transcript": "Almanya'da gezmek i\u00e7in geldim buraya gelemiyor kusura bakma Seni \u00e7ok seviyorum s\u00f6zleri",
+          "words": [
+            {
+              "endTime": "0.900s",
+              "startTime": "0s",
+              "word": "Almanya'da"
+            },
+            {
+              "endTime": "1.100s",
+              "startTime": "0.900s",
+              "word": "gezmek"
+            },
+            {
+              "endTime": "3.200s",
+              "startTime": "1.100s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "3.500s",
+              "startTime": "3.200s",
+              "word": "geldim"
+            },
+            {
+              "endTime": "3.700s",
+              "startTime": "3.500s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "13.400s",
+              "startTime": "3.700s",
+              "word": "gelemiyor"
+            },
+            {
+              "endTime": "14.900s",
+              "startTime": "13.400s",
+              "word": "kusura"
+            },
+            {
+              "endTime": "19.600s",
+              "startTime": "14.900s",
+              "word": "bakma"
+            },
+            {
+              "endTime": "19.900s",
+              "startTime": "19.600s",
+              "word": "Seni"
+            },
+            {
+              "endTime": "20.500s",
+              "startTime": "19.900s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "20.700s",
+              "startTime": "20.500s",
+              "word": "seviyorum"
+            },
+            {
+              "endTime": "38.700s",
+              "startTime": "20.700s",
+              "word": "s\u00f6zleri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.61035156,
+          "transcript": "g\u00fczel bir yuva a\u015fa\u011f\u0131daki var m\u0131",
+          "words": [
+            {
+              "endTime": "41s",
+              "startTime": "40.500s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "41.100s",
+              "startTime": "41s",
+              "word": "bir"
+            },
+            {
+              "endTime": "41.300s",
+              "startTime": "41.100s",
+              "word": "yuva"
+            },
+            {
+              "endTime": "42.600s",
+              "startTime": "41.300s",
+              "word": "a\u015fa\u011f\u0131daki"
+            },
+            {
+              "endTime": "42.800s",
+              "startTime": "42.600s",
+              "word": "var"
+            },
+            {
+              "endTime": "42.900s",
+              "startTime": "42.800s",
+              "word": "m\u0131"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

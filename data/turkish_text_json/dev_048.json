@@ -1,0 +1,300 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71758735,
+          "transcript": "bu \u00e7al\u0131\u015fmaya kat\u0131lmay\u0131 kabul etti\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz",
+          "words": [
+            {
+              "endTime": "3.400s",
+              "startTime": "3.100s",
+              "word": "bu"
+            },
+            {
+              "endTime": "3.900s",
+              "startTime": "3.400s",
+              "word": "\u00e7al\u0131\u015fmaya"
+            },
+            {
+              "endTime": "4.400s",
+              "startTime": "3.900s",
+              "word": "kat\u0131lmay\u0131"
+            },
+            {
+              "endTime": "4.500s",
+              "startTime": "4.400s",
+              "word": "kabul"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.500s",
+              "word": "etti\u011finiz"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "5.100s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "5.300s",
+              "startTime": "5.100s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "5.900s",
+              "startTime": "5.300s",
+              "word": "ederiz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7785472,
+          "transcript": " \u00f6z\u00fcr dilerim sana bir \u015fey olmas\u0131n\u0131 \u00e7ok iyi k\u00f6t\u00fc 12345678",
+          "words": [
+            {
+              "endTime": "7.900s",
+              "startTime": "7.200s",
+              "word": "\u00f6z\u00fcr"
+            },
+            {
+              "endTime": "9.100s",
+              "startTime": "7.900s",
+              "word": "dilerim"
+            },
+            {
+              "endTime": "9.300s",
+              "startTime": "9.100s",
+              "word": "sana"
+            },
+            {
+              "endTime": "9.900s",
+              "startTime": "9.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "10.300s",
+              "startTime": "9.900s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "17.800s",
+              "startTime": "10.300s",
+              "word": "olmas\u0131n\u0131"
+            },
+            {
+              "endTime": "20.400s",
+              "startTime": "17.800s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "20.700s",
+              "startTime": "20.400s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "23.900s",
+              "startTime": "20.700s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "29.600s",
+              "startTime": "23.900s",
+              "word": "12345678"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.49609697,
+          "transcript": " bir \u015fekilde s\u00f6yler misin 1234567",
+          "words": [
+            {
+              "endTime": "38.500s",
+              "startTime": "37.900s",
+              "word": "bir"
+            },
+            {
+              "endTime": "38.800s",
+              "startTime": "38.500s",
+              "word": "\u015fekilde"
+            },
+            {
+              "endTime": "39.400s",
+              "startTime": "38.800s",
+              "word": "s\u00f6yler"
+            },
+            {
+              "endTime": "39.800s",
+              "startTime": "39.400s",
+              "word": "misin"
+            },
+            {
+              "endTime": "41s",
+              "startTime": "39.800s",
+              "word": "1234567"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7175929,
+          "transcript": "bu \u00e7al\u0131\u015fmaya kat\u0131lmay\u0131 kabul etti\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz",
+          "words": [
+            {
+              "endTime": "3.400s",
+              "startTime": "3.100s",
+              "word": "bu"
+            },
+            {
+              "endTime": "3.900s",
+              "startTime": "3.400s",
+              "word": "\u00e7al\u0131\u015fmaya"
+            },
+            {
+              "endTime": "4.400s",
+              "startTime": "3.900s",
+              "word": "kat\u0131lmay\u0131"
+            },
+            {
+              "endTime": "4.500s",
+              "startTime": "4.400s",
+              "word": "kabul"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.500s",
+              "word": "etti\u011finiz"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "5.100s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "5.300s",
+              "startTime": "5.100s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "5.900s",
+              "startTime": "5.300s",
+              "word": "ederiz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77854675,
+          "transcript": " \u00f6z\u00fcr dilerim sana bir \u015fey olmas\u0131n\u0131 \u00e7ok iyi k\u00f6t\u00fc 12345678",
+          "words": [
+            {
+              "endTime": "7.900s",
+              "startTime": "7.200s",
+              "word": "\u00f6z\u00fcr"
+            },
+            {
+              "endTime": "9.100s",
+              "startTime": "7.900s",
+              "word": "dilerim"
+            },
+            {
+              "endTime": "9.300s",
+              "startTime": "9.100s",
+              "word": "sana"
+            },
+            {
+              "endTime": "9.900s",
+              "startTime": "9.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "10.300s",
+              "startTime": "9.900s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "17.800s",
+              "startTime": "10.300s",
+              "word": "olmas\u0131n\u0131"
+            },
+            {
+              "endTime": "20.400s",
+              "startTime": "17.800s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "20.700s",
+              "startTime": "20.400s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "23.900s",
+              "startTime": "20.700s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "29.600s",
+              "startTime": "23.900s",
+              "word": "12345678"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.49609637,
+          "transcript": " bir \u015fekilde s\u00f6yler misin 1234567",
+          "words": [
+            {
+              "endTime": "38.500s",
+              "startTime": "37.900s",
+              "word": "bir"
+            },
+            {
+              "endTime": "38.800s",
+              "startTime": "38.500s",
+              "word": "\u015fekilde"
+            },
+            {
+              "endTime": "39.400s",
+              "startTime": "38.800s",
+              "word": "s\u00f6yler"
+            },
+            {
+              "endTime": "39.800s",
+              "startTime": "39.400s",
+              "word": "misin"
+            },
+            {
+              "endTime": "41s",
+              "startTime": "39.800s",
+              "word": "1234567"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.51895356,
+          "transcript": "Yunan Adalar\u0131",
+          "words": [
+            {
+              "endTime": "3.400s",
+              "startTime": "2.500s",
+              "word": "Yunan"
+            },
+            {
+              "endTime": "7.900s",
+              "startTime": "3.400s",
+              "word": "Adalar\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6569566,
+          "transcript": " \u00fcz\u00fcnt\u00fcl\u00fc \u00e7ok kar ediyor",
+          "words": [
+            {
+              "endTime": "13.600s",
+              "startTime": "9.200s",
+              "word": "\u00fcz\u00fcnt\u00fcl\u00fc"
+            },
+            {
+              "endTime": "13.700s",
+              "startTime": "13.600s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "16.900s",
+              "startTime": "13.700s",
+              "word": "kar"
+            },
+            {
+              "endTime": "17.300s",
+              "startTime": "16.900s",
+              "word": "ediyor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.76222754,
+          "transcript": " sigaran\u0131n zarar\u0131 yok",
+          "words": [
+            {
+              "endTime": "23.600s",
+              "startTime": "22.300s",
+              "word": "sigaran\u0131n"
+            },
+            {
+              "endTime": "24s",
+              "startTime": "23.600s",
+              "word": "zarar\u0131"
+            },
+            {
+              "endTime": "24.800s",
+              "startTime": "24s",
+              "word": "yok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.78868365,
+          "transcript": " yok",
+          "words": [
+            {
+              "endTime": "27.200s",
+              "startTime": "26.600s",
+              "word": "yok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.86153513,
+          "transcript": " 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21",
+          "words": [
+            {
+              "endTime": "29.100s",
+              "startTime": "28.700s",
+              "word": "1"
+            },
+            {
+              "endTime": "29.300s",
+              "startTime": "29.100s",
+              "word": "2"
+            },
+            {
+              "endTime": "29.400s",
+              "startTime": "29.300s",
+              "word": "3"
+            },
+            {
+              "endTime": "29.500s",
+              "startTime": "29.400s",
+              "word": "4"
+            },
+            {
+              "endTime": "29.700s",
+              "startTime": "29.500s",
+              "word": "5"
+            },
+            {
+              "endTime": "29.900s",
+              "startTime": "29.700s",
+              "word": "6"
+            },
+            {
+              "endTime": "30.200s",
+              "startTime": "29.900s",
+              "word": "7"
+            },
+            {
+              "endTime": "30.400s",
+              "startTime": "30.200s",
+              "word": "8"
+            },
+            {
+              "endTime": "30.600s",
+              "startTime": "30.400s",
+              "word": "9"
+            },
+            {
+              "endTime": "30.900s",
+              "startTime": "30.600s",
+              "word": "10"
+            },
+            {
+              "endTime": "31.100s",
+              "startTime": "30.900s",
+              "word": "11"
+            },
+            {
+              "endTime": "31.400s",
+              "startTime": "31.100s",
+              "word": "12"
+            },
+            {
+              "endTime": "31.700s",
+              "startTime": "31.400s",
+              "word": "13"
+            },
+            {
+              "endTime": "32s",
+              "startTime": "31.700s",
+              "word": "14"
+            },
+            {
+              "endTime": "32.300s",
+              "startTime": "32s",
+              "word": "15"
+            },
+            {
+              "endTime": "32.500s",
+              "startTime": "32.300s",
+              "word": "16"
+            },
+            {
+              "endTime": "32.900s",
+              "startTime": "32.500s",
+              "word": "17"
+            },
+            {
+              "endTime": "33.100s",
+              "startTime": "32.900s",
+              "word": "18"
+            },
+            {
+              "endTime": "33.400s",
+              "startTime": "33.100s",
+              "word": "19"
+            },
+            {
+              "endTime": "33.800s",
+              "startTime": "33.400s",
+              "word": "20"
+            },
+            {
+              "endTime": "34.100s",
+              "startTime": "33.800s",
+              "word": "21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8743744,
+          "transcript": " 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 26 27 28 29 modelleri \u00f6rg\u00fcl\u00fc toplu civar\u0131nda YouTube YouTube oynuyorlar yumurta \u015feklinde huzurlu bir \u015fekilde manzara",
+          "words": [
+            {
+              "endTime": "40.700s",
+              "startTime": "39.700s",
+              "word": "1"
+            },
+            {
+              "endTime": "40.900s",
+              "startTime": "40.700s",
+              "word": "2"
+            },
+            {
+              "endTime": "41s",
+              "startTime": "40.900s",
+              "word": "3"
+            },
+            {
+              "endTime": "41.200s",
+              "startTime": "41s",
+              "word": "4"
+            },
+            {
+              "endTime": "41.500s",
+              "startTime": "41.200s",
+              "word": "5"
+            },
+            {
+              "endTime": "41.700s",
+              "startTime": "41.500s",
+              "word": "6"
+            },
+            {
+              "endTime": "42s",
+              "startTime": "41.700s",
+              "word": "7"
+            },
+            {
+              "endTime": "42.200s",
+              "startTime": "42s",
+              "word": "8"
+            },
+            {
+              "endTime": "42.500s",
+              "startTime": "42.200s",
+              "word": "9"
+            },
+            {
+              "endTime": "42.800s",
+              "startTime": "42.500s",
+              "word": "10"
+            },
+            {
+              "endTime": "43s",
+              "startTime": "42.800s",
+              "word": "11"
+            },
+            {
+              "endTime": "43.300s",
+              "startTime": "43s",
+              "word": "12"
+            },
+            {
+              "endTime": "43.700s",
+              "startTime": "43.300s",
+              "word": "13"
+            },
+            {
+              "endTime": "43.900s",
+              "startTime": "43.700s",
+              "word": "14"
+            },
+            {
+              "endTime": "44.300s",
+              "startTime": "43.900s",
+              "word": "15"
+            },
+            {
+              "endTime": "44.500s",
+              "startTime": "44.300s",
+              "word": "16"
+            },
+            {
+              "endTime": "44.800s",
+              "startTime": "44.500s",
+              "word": "17"
+            },
+            {
+              "endTime": "45.100s",
+              "startTime": "44.800s",
+              "word": "18"
+            },
+            {
+              "endTime": "45.400s",
+              "startTime": "45.100s",
+              "word": "19"
+            },
+            {
+              "endTime": "45.800s",
+              "startTime": "45.400s",
+              "word": "20"
+            },
+            {
+              "endTime": "46.100s",
+              "startTime": "45.800s",
+              "word": "21"
+            },
+            {
+              "endTime": "47.100s",
+              "startTime": "46.100s",
+              "word": "23"
+            },
+            {
+              "endTime": "47.300s",
+              "startTime": "47.100s",
+              "word": "24"
+            },
+            {
+              "endTime": "47.700s",
+              "startTime": "47.300s",
+              "word": "25"
+            },
+            {
+              "endTime": "47.900s",
+              "startTime": "47.700s",
+              "word": "26"
+            },
+            {
+              "endTime": "48.300s",
+              "startTime": "47.900s",
+              "word": "27"
+            },
+            {
+              "endTime": "48.800s",
+              "startTime": "48.300s",
+              "word": "28"
+            },
+            {
+              "endTime": "49.300s",
+              "startTime": "48.800s",
+              "word": "29"
+            },
+            {
+              "endTime": "54.700s",
+              "startTime": "49.300s",
+              "word": "modelleri"
+            },
+            {
+              "endTime": "55.100s",
+              "startTime": "54.700s",
+              "word": "\u00f6rg\u00fcl\u00fc"
+            },
+            {
+              "endTime": "55.600s",
+              "startTime": "55.100s",
+              "word": "toplu"
+            },
+            {
+              "endTime": "56.200s",
+              "startTime": "55.600s",
+              "word": "civar\u0131nda"
+            },
+            {
+              "endTime": "57.900s",
+              "startTime": "56.200s",
+              "word": "YouTube"
+            },
+            {
+              "endTime": "58.200s",
+              "startTime": "57.900s",
+              "word": "YouTube"
+            },
+            {
+              "endTime": "59.300s",
+              "startTime": "58.200s",
+              "word": "oynuyorlar"
+            },
+            {
+              "endTime": "60.100s",
+              "startTime": "59.300s",
+              "word": "yumurta"
+            },
+            {
+              "endTime": "60.700s",
+              "startTime": "60.100s",
+              "word": "\u015feklinde"
+            },
+            {
+              "endTime": "61.700s",
+              "startTime": "60.700s",
+              "word": "huzurlu"
+            },
+            {
+              "endTime": "61.900s",
+              "startTime": "61.700s",
+              "word": "bir"
+            },
+            {
+              "endTime": "61.900s",
+              "startTime": "61.900s",
+              "word": "\u015fekilde"
+            },
+            {
+              "endTime": "63.200s",
+              "startTime": "61.900s",
+              "word": "manzara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.76378495,
+          "transcript": " Facebook'a at\u0131yorum yok \u00e7ocuklarla te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "70s",
+              "startTime": "69s",
+              "word": "Facebook'a"
+            },
+            {
+              "endTime": "70.500s",
+              "startTime": "70s",
+              "word": "at\u0131yorum"
+            },
+            {
+              "endTime": "70.800s",
+              "startTime": "70.500s",
+              "word": "yok"
+            },
+            {
+              "endTime": "71.400s",
+              "startTime": "70.800s",
+              "word": "\u00e7ocuklarla"
+            },
+            {
+              "endTime": "72.800s",
+              "startTime": "71.400s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84111327,
+          "transcript": " ne olmu\u015f",
+          "words": [
+            {
+              "endTime": "75.800s",
+              "startTime": "75.100s",
+              "word": "ne"
+            },
+            {
+              "endTime": "76.200s",
+              "startTime": "75.800s",
+              "word": "olmu\u015f"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

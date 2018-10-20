@@ -1,0 +1,320 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.56340486,
+          "transcript": "burada yatarken Tekint\u00fcre t\u00fcrk\u00fcs\u00fc",
+          "words": [
+            {
+              "endTime": "12.400s",
+              "startTime": "0s",
+              "word": "burada"
+            },
+            {
+              "endTime": "14.600s",
+              "startTime": "12.400s",
+              "word": "yatarken"
+            },
+            {
+              "endTime": "16.400s",
+              "startTime": "14.600s",
+              "word": "Tekint\u00fcre"
+            },
+            {
+              "endTime": "17.400s",
+              "startTime": "16.400s",
+              "word": "t\u00fcrk\u00fcs\u00fc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6394592,
+          "transcript": " mesele bu",
+          "words": [
+            {
+              "endTime": "24.300s",
+              "startTime": "23.700s",
+              "word": "mesele"
+            },
+            {
+              "endTime": "24.500s",
+              "startTime": "24.300s",
+              "word": "bu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.67772573,
+          "transcript": " iddiaya girdim",
+          "words": [
+            {
+              "endTime": "29.600s",
+              "startTime": "26.800s",
+              "word": "iddiaya"
+            },
+            {
+              "endTime": "29.900s",
+              "startTime": "29.600s",
+              "word": "girdim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85668504,
+          "transcript": " bitti",
+          "words": [
+            {
+              "endTime": "36.800s",
+              "startTime": "36.300s",
+              "word": "bitti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81347317,
+          "transcript": " \u00e7ok \u00fcz\u00fcld\u00fcm vatanda\u015f k\u00f6t\u00fc biraz anlat\u0131r m\u0131s\u0131n\u0131z burada olmak 1234567 g\u00fczel te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "42.700s",
+              "startTime": "39.700s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "43s",
+              "startTime": "42.700s",
+              "word": "\u00fcz\u00fcld\u00fcm"
+            },
+            {
+              "endTime": "43.500s",
+              "startTime": "43s",
+              "word": "vatanda\u015f"
+            },
+            {
+              "endTime": "44.900s",
+              "startTime": "43.500s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "45.100s",
+              "startTime": "44.900s",
+              "word": "biraz"
+            },
+            {
+              "endTime": "45.900s",
+              "startTime": "45.100s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "46.200s",
+              "startTime": "45.900s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "47.600s",
+              "startTime": "46.200s",
+              "word": "burada"
+            },
+            {
+              "endTime": "48s",
+              "startTime": "47.600s",
+              "word": "olmak"
+            },
+            {
+              "endTime": "50.100s",
+              "startTime": "48s",
+              "word": "1234567"
+            },
+            {
+              "endTime": "66.300s",
+              "startTime": "50.100s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "69s",
+              "startTime": "66.300s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5634047,
+          "transcript": "burada yatarken Tekint\u00fcre t\u00fcrk\u00fcs\u00fc",
+          "words": [
+            {
+              "endTime": "12.400s",
+              "startTime": "0s",
+              "word": "burada"
+            },
+            {
+              "endTime": "14.600s",
+              "startTime": "12.400s",
+              "word": "yatarken"
+            },
+            {
+              "endTime": "16.400s",
+              "startTime": "14.600s",
+              "word": "Tekint\u00fcre"
+            },
+            {
+              "endTime": "17.400s",
+              "startTime": "16.400s",
+              "word": "t\u00fcrk\u00fcs\u00fc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6394592,
+          "transcript": " mesele bu",
+          "words": [
+            {
+              "endTime": "24.300s",
+              "startTime": "23.700s",
+              "word": "mesele"
+            },
+            {
+              "endTime": "24.500s",
+              "startTime": "24.300s",
+              "word": "bu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6777256,
+          "transcript": " iddiaya girdim",
+          "words": [
+            {
+              "endTime": "29.600s",
+              "startTime": "26.800s",
+              "word": "iddiaya"
+            },
+            {
+              "endTime": "29.900s",
+              "startTime": "29.600s",
+              "word": "girdim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85668504,
+          "transcript": " bitti",
+          "words": [
+            {
+              "endTime": "36.800s",
+              "startTime": "36.300s",
+              "word": "bitti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.813476,
+          "transcript": " \u00e7ok \u00fcz\u00fcld\u00fcm vatanda\u015f k\u00f6t\u00fc biraz anlat\u0131r m\u0131s\u0131n\u0131z burada olmak 1234567 g\u00fczel te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "42.700s",
+              "startTime": "39.700s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "43s",
+              "startTime": "42.700s",
+              "word": "\u00fcz\u00fcld\u00fcm"
+            },
+            {
+              "endTime": "43.500s",
+              "startTime": "43s",
+              "word": "vatanda\u015f"
+            },
+            {
+              "endTime": "44.900s",
+              "startTime": "43.500s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "45.100s",
+              "startTime": "44.900s",
+              "word": "biraz"
+            },
+            {
+              "endTime": "45.900s",
+              "startTime": "45.100s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "46.200s",
+              "startTime": "45.900s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "47.600s",
+              "startTime": "46.200s",
+              "word": "burada"
+            },
+            {
+              "endTime": "48s",
+              "startTime": "47.600s",
+              "word": "olmak"
+            },
+            {
+              "endTime": "50.100s",
+              "startTime": "48s",
+              "word": "1234567"
+            },
+            {
+              "endTime": "66.300s",
+              "startTime": "50.100s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "69s",
+              "startTime": "66.300s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

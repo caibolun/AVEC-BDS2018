@@ -1,0 +1,220 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.92738366,
+          "transcript": "en g\u00fczel hat\u0131ra",
+          "words": [
+            {
+              "endTime": "3.700s",
+              "startTime": "3.200s",
+              "word": "en"
+            },
+            {
+              "endTime": "4.100s",
+              "startTime": "3.700s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "4.500s",
+              "startTime": "4.100s",
+              "word": "hat\u0131ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.73333067,
+          "transcript": " \u00e7ocuklar\u0131mla Beach",
+          "words": [
+            {
+              "endTime": "8.200s",
+              "startTime": "7.100s",
+              "word": "\u00e7ocuklar\u0131mla"
+            },
+            {
+              "endTime": "8.700s",
+              "startTime": "8.200s",
+              "word": "Beach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.776497,
+          "transcript": " \u00e7ocuklar\u0131m\u0131za ge\u00e7en her g\u00fcn\u00fcme en g\u00fczel hat\u0131ram olmu\u015ftur",
+          "words": [
+            {
+              "endTime": "12.400s",
+              "startTime": "11s",
+              "word": "\u00e7ocuklar\u0131m\u0131za"
+            },
+            {
+              "endTime": "12.900s",
+              "startTime": "12.400s",
+              "word": "ge\u00e7en"
+            },
+            {
+              "endTime": "13.200s",
+              "startTime": "12.900s",
+              "word": "her"
+            },
+            {
+              "endTime": "13.600s",
+              "startTime": "13.200s",
+              "word": "g\u00fcn\u00fcme"
+            },
+            {
+              "endTime": "13.800s",
+              "startTime": "13.600s",
+              "word": "en"
+            },
+            {
+              "endTime": "14.100s",
+              "startTime": "13.800s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "14.700s",
+              "startTime": "14.100s",
+              "word": "hat\u0131ram"
+            },
+            {
+              "endTime": "15.400s",
+              "startTime": "14.700s",
+              "word": "olmu\u015ftur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.92803967,
+          "transcript": " \u00c7ok g\u00fczel \u00e7ok mutlu anlar\u0131m\u0131z oldu Onlarla g\u00fcld\u00fck oynad\u0131k yedik i\u00e7tik gezdik",
+          "words": [
+            {
+              "endTime": "17.600s",
+              "startTime": "16.600s",
+              "word": "\u00c7ok"
+            },
+            {
+              "endTime": "17.900s",
+              "startTime": "17.600s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "18.200s",
+              "startTime": "17.900s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "18.400s",
+              "startTime": "18.200s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "19.100s",
+              "startTime": "18.400s",
+              "word": "anlar\u0131m\u0131z"
+            },
+            {
+              "endTime": "19.200s",
+              "startTime": "19.100s",
+              "word": "oldu"
+            },
+            {
+              "endTime": "20s",
+              "startTime": "19.200s",
+              "word": "Onlarla"
+            },
+            {
+              "endTime": "20.700s",
+              "startTime": "20s",
+              "word": "g\u00fcld\u00fck"
+            },
+            {
+              "endTime": "20.700s",
+              "startTime": "20.700s",
+              "word": "oynad\u0131k"
+            },
+            {
+              "endTime": "21.700s",
+              "startTime": "20.700s",
+              "word": "yedik"
+            },
+            {
+              "endTime": "21.900s",
+              "startTime": "21.700s",
+              "word": "i\u00e7tik"
+            },
+            {
+              "endTime": "22.400s",
+              "startTime": "21.900s",
+              "word": "gezdik"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.783912,
+          "transcript": " k\u0131saca \u00e7ocuklar\u0131mla olan g\u00fczel ama en g\u00fczel hat\u0131ralar",
+          "words": [
+            {
+              "endTime": "24.800s",
+              "startTime": "24.100s",
+              "word": "k\u0131saca"
+            },
+            {
+              "endTime": "25.600s",
+              "startTime": "24.800s",
+              "word": "\u00e7ocuklar\u0131mla"
+            },
+            {
+              "endTime": "25.900s",
+              "startTime": "25.600s",
+              "word": "olan"
+            },
+            {
+              "endTime": "27.300s",
+              "startTime": "25.900s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "27.800s",
+              "startTime": "27.300s",
+              "word": "ama"
+            },
+            {
+              "endTime": "28s",
+              "startTime": "27.800s",
+              "word": "en"
+            },
+            {
+              "endTime": "28.100s",
+              "startTime": "28s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "28.900s",
+              "startTime": "28.100s",
+              "word": "hat\u0131ralar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8471589,
+          "transcript": "l\u00fctfen her sayfaya hissi verecek g\u00f6revini tamamlayan sonra Bo\u015fluk tu\u015funa bas\u0131n\u0131z Contra gelmi\u015fim \u015fimdi \u00e7ok iyiyim \u015fimdi hi\u00e7bir \u015feyim yok oyun Kusura benziyordu bak\u0131yordum",
+          "words": [
+            {
+              "endTime": "1.100s",
+              "startTime": "0.400s",
+              "word": "l\u00fctfen"
+            },
+            {
+              "endTime": "1.200s",
+              "startTime": "1.100s",
+              "word": "her"
+            },
+            {
+              "endTime": "1.600s",
+              "startTime": "1.200s",
+              "word": "sayfaya"
+            },
+            {
+              "endTime": "2.100s",
+              "startTime": "1.600s",
+              "word": "hissi"
+            },
+            {
+              "endTime": "2.500s",
+              "startTime": "2.100s",
+              "word": "verecek"
+            },
+            {
+              "endTime": "2.900s",
+              "startTime": "2.500s",
+              "word": "g\u00f6revini"
+            },
+            {
+              "endTime": "3.600s",
+              "startTime": "2.900s",
+              "word": "tamamlayan"
+            },
+            {
+              "endTime": "3.800s",
+              "startTime": "3.600s",
+              "word": "sonra"
+            },
+            {
+              "endTime": "4.200s",
+              "startTime": "3.800s",
+              "word": "Bo\u015fluk"
+            },
+            {
+              "endTime": "4.500s",
+              "startTime": "4.200s",
+              "word": "tu\u015funa"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.500s",
+              "word": "bas\u0131n\u0131z"
+            },
+            {
+              "endTime": "13.800s",
+              "startTime": "5.100s",
+              "word": "Contra"
+            },
+            {
+              "endTime": "14.400s",
+              "startTime": "13.800s",
+              "word": "gelmi\u015fim"
+            },
+            {
+              "endTime": "15s",
+              "startTime": "14.400s",
+              "word": "\u015fimdi"
+            },
+            {
+              "endTime": "15.200s",
+              "startTime": "15s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "15.500s",
+              "startTime": "15.200s",
+              "word": "iyiyim"
+            },
+            {
+              "endTime": "16.900s",
+              "startTime": "15.500s",
+              "word": "\u015fimdi"
+            },
+            {
+              "endTime": "17.100s",
+              "startTime": "16.900s",
+              "word": "hi\u00e7bir"
+            },
+            {
+              "endTime": "17.300s",
+              "startTime": "17.100s",
+              "word": "\u015feyim"
+            },
+            {
+              "endTime": "17.400s",
+              "startTime": "17.300s",
+              "word": "yok"
+            },
+            {
+              "endTime": "17.800s",
+              "startTime": "17.400s",
+              "word": "oyun"
+            },
+            {
+              "endTime": "18.200s",
+              "startTime": "17.800s",
+              "word": "Kusura"
+            },
+            {
+              "endTime": "19.100s",
+              "startTime": "18.200s",
+              "word": "benziyordu"
+            },
+            {
+              "endTime": "19.800s",
+              "startTime": "19.100s",
+              "word": "bak\u0131yordum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8544608,
+          "transcript": " gelecek olan sayfay\u0131 resmi anlat\u0131r m\u0131s\u0131n\u0131z size neler d\u00fc\u015f\u00fcnd\u00fcrmektedir burada bir adam b\u00f6yle Durmu\u015f g\u00f6z\u00fcn\u00fc kapatm\u0131\u015f bile beklemi\u015f k\u00f6t\u00fc bir hat\u0131ram\u0131z anlat\u0131rsan\u0131z",
+          "words": [
+            {
+              "endTime": "24.100s",
+              "startTime": "22.500s",
+              "word": "gelecek"
+            },
+            {
+              "endTime": "24.300s",
+              "startTime": "24.100s",
+              "word": "olan"
+            },
+            {
+              "endTime": "24.800s",
+              "startTime": "24.300s",
+              "word": "sayfay\u0131"
+            },
+            {
+              "endTime": "25.100s",
+              "startTime": "24.800s",
+              "word": "resmi"
+            },
+            {
+              "endTime": "25.500s",
+              "startTime": "25.100s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "25.800s",
+              "startTime": "25.500s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "26.100s",
+              "startTime": "25.800s",
+              "word": "size"
+            },
+            {
+              "endTime": "26.500s",
+              "startTime": "26.100s",
+              "word": "neler"
+            },
+            {
+              "endTime": "27.300s",
+              "startTime": "26.500s",
+              "word": "d\u00fc\u015f\u00fcnd\u00fcrmektedir"
+            },
+            {
+              "endTime": "29.300s",
+              "startTime": "27.300s",
+              "word": "burada"
+            },
+            {
+              "endTime": "29.500s",
+              "startTime": "29.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "29.700s",
+              "startTime": "29.500s",
+              "word": "adam"
+            },
+            {
+              "endTime": "30s",
+              "startTime": "29.700s",
+              "word": "b\u00f6yle"
+            },
+            {
+              "endTime": "30.400s",
+              "startTime": "30s",
+              "word": "Durmu\u015f"
+            },
+            {
+              "endTime": "30.700s",
+              "startTime": "30.400s",
+              "word": "g\u00f6z\u00fcn\u00fc"
+            },
+            {
+              "endTime": "31.200s",
+              "startTime": "30.700s",
+              "word": "kapatm\u0131\u015f"
+            },
+            {
+              "endTime": "31.500s",
+              "startTime": "31.200s",
+              "word": "bile"
+            },
+            {
+              "endTime": "32s",
+              "startTime": "31.500s",
+              "word": "beklemi\u015f"
+            },
+            {
+              "endTime": "34.300s",
+              "startTime": "32s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "34.500s",
+              "startTime": "34.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "35.800s",
+              "startTime": "34.500s",
+              "word": "hat\u0131ram\u0131z"
+            },
+            {
+              "endTime": "36.600s",
+              "startTime": "35.800s",
+              "word": "anlat\u0131rsan\u0131z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5928713,
+          "transcript": " i\u015fte bir hat\u0131ra m\u0131 Yoktur",
+          "words": [
+            {
+              "endTime": "38.300s",
+              "startTime": "37.800s",
+              "word": "i\u015fte"
+            },
+            {
+              "endTime": "41s",
+              "startTime": "38.300s",
+              "word": "bir"
+            },
+            {
+              "endTime": "41.600s",
+              "startTime": "41s",
+              "word": "hat\u0131ra"
+            },
+            {
+              "endTime": "41.700s",
+              "startTime": "41.600s",
+              "word": "m\u0131"
+            },
+            {
+              "endTime": "42.100s",
+              "startTime": "41.700s",
+              "word": "Yoktur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.92487514,
+          "transcript": " adam yapt\u0131ram\u0131yorum hareketsiz varl\u0131\u011f\u0131m\u0131n \u015fimdi yoktur 1'den 30'a kadar sayar m\u0131s\u0131n 1 2 3 4 5 6 7 8 9 10 11 12 13 16 18 19 20 25 26 27 28 29 30 bizden h\u0131zl\u0131 bir \u015fekilde sayar m\u0131s\u0131n\u0131z 12345678 10 11 12 13 14 ya\u015f\u0131nda bir adamla kar\u0131s\u0131yla \u00e7ocuklar\u0131 hep birbirini tutmu\u015flar",
+          "words": [
+            {
+              "endTime": "45.800s",
+              "startTime": "44.500s",
+              "word": "adam"
+            },
+            {
+              "endTime": "46.400s",
+              "startTime": "45.800s",
+              "word": "yapt\u0131ram\u0131yorum"
+            },
+            {
+              "endTime": "47.700s",
+              "startTime": "46.400s",
+              "word": "hareketsiz"
+            },
+            {
+              "endTime": "48.400s",
+              "startTime": "47.700s",
+              "word": "varl\u0131\u011f\u0131m\u0131n"
+            },
+            {
+              "endTime": "48.800s",
+              "startTime": "48.400s",
+              "word": "\u015fimdi"
+            },
+            {
+              "endTime": "49.100s",
+              "startTime": "48.800s",
+              "word": "yoktur"
+            },
+            {
+              "endTime": "51.800s",
+              "startTime": "49.100s",
+              "word": "1'den"
+            },
+            {
+              "endTime": "52.400s",
+              "startTime": "51.800s",
+              "word": "30'a"
+            },
+            {
+              "endTime": "52.800s",
+              "startTime": "52.400s",
+              "word": "kadar"
+            },
+            {
+              "endTime": "53.200s",
+              "startTime": "52.800s",
+              "word": "sayar"
+            },
+            {
+              "endTime": "53.500s",
+              "startTime": "53.200s",
+              "word": "m\u0131s\u0131n"
+            },
+            {
+              "endTime": "53.600s",
+              "startTime": "53.500s",
+              "word": "1"
+            },
+            {
+              "endTime": "53.800s",
+              "startTime": "53.600s",
+              "word": "2"
+            },
+            {
+              "endTime": "53.900s",
+              "startTime": "53.800s",
+              "word": "3"
+            },
+            {
+              "endTime": "54.100s",
+              "startTime": "53.900s",
+              "word": "4"
+            },
+            {
+              "endTime": "54.200s",
+              "startTime": "54.100s",
+              "word": "5"
+            },
+            {
+              "endTime": "54.400s",
+              "startTime": "54.200s",
+              "word": "6"
+            },
+            {
+              "endTime": "54.700s",
+              "startTime": "54.400s",
+              "word": "7"
+            },
+            {
+              "endTime": "54.900s",
+              "startTime": "54.700s",
+              "word": "8"
+            },
+            {
+              "endTime": "55.200s",
+              "startTime": "54.900s",
+              "word": "9"
+            },
+            {
+              "endTime": "55.400s",
+              "startTime": "55.200s",
+              "word": "10"
+            },
+            {
+              "endTime": "55.500s",
+              "startTime": "55.400s",
+              "word": "11"
+            },
+            {
+              "endTime": "55.800s",
+              "startTime": "55.500s",
+              "word": "12"
+            },
+            {
+              "endTime": "56.100s",
+              "startTime": "55.800s",
+              "word": "13"
+            },
+            {
+              "endTime": "57.300s",
+              "startTime": "56.100s",
+              "word": "16"
+            },
+            {
+              "endTime": "57.400s",
+              "startTime": "57.300s",
+              "word": "18"
+            },
+            {
+              "endTime": "58.100s",
+              "startTime": "57.400s",
+              "word": "19"
+            },
+            {
+              "endTime": "58.600s",
+              "startTime": "58.100s",
+              "word": "20"
+            },
+            {
+              "endTime": "60.100s",
+              "startTime": "58.600s",
+              "word": "25"
+            },
+            {
+              "endTime": "61s",
+              "startTime": "60.100s",
+              "word": "26"
+            },
+            {
+              "endTime": "61.300s",
+              "startTime": "61s",
+              "word": "27"
+            },
+            {
+              "endTime": "61.500s",
+              "startTime": "61.300s",
+              "word": "28"
+            },
+            {
+              "endTime": "61.900s",
+              "startTime": "61.500s",
+              "word": "29"
+            },
+            {
+              "endTime": "62.300s",
+              "startTime": "61.900s",
+              "word": "30"
+            },
+            {
+              "endTime": "64.300s",
+              "startTime": "62.300s",
+              "word": "bizden"
+            },
+            {
+              "endTime": "64.900s",
+              "startTime": "64.300s",
+              "word": "h\u0131zl\u0131"
+            },
+            {
+              "endTime": "65.500s",
+              "startTime": "64.900s",
+              "word": "bir"
+            },
+            {
+              "endTime": "65.700s",
+              "startTime": "65.500s",
+              "word": "\u015fekilde"
+            },
+            {
+              "endTime": "66.300s",
+              "startTime": "65.700s",
+              "word": "sayar"
+            },
+            {
+              "endTime": "66.600s",
+              "startTime": "66.300s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "68.900s",
+              "startTime": "66.600s",
+              "word": "12345678"
+            },
+            {
+              "endTime": "69.200s",
+              "startTime": "68.900s",
+              "word": "10"
+            },
+            {
+              "endTime": "69.400s",
+              "startTime": "69.200s",
+              "word": "11"
+            },
+            {
+              "endTime": "69.600s",
+              "startTime": "69.400s",
+              "word": "12"
+            },
+            {
+              "endTime": "69.700s",
+              "startTime": "69.600s",
+              "word": "13"
+            },
+            {
+              "endTime": "69.900s",
+              "startTime": "69.700s",
+              "word": "14"
+            },
+            {
+              "endTime": "74.200s",
+              "startTime": "69.900s",
+              "word": "ya\u015f\u0131nda"
+            },
+            {
+              "endTime": "81.400s",
+              "startTime": "74.200s",
+              "word": "bir"
+            },
+            {
+              "endTime": "81.900s",
+              "startTime": "81.400s",
+              "word": "adamla"
+            },
+            {
+              "endTime": "82.600s",
+              "startTime": "81.900s",
+              "word": "kar\u0131s\u0131yla"
+            },
+            {
+              "endTime": "83.400s",
+              "startTime": "82.600s",
+              "word": "\u00e7ocuklar\u0131"
+            },
+            {
+              "endTime": "83.600s",
+              "startTime": "83.400s",
+              "word": "hep"
+            },
+            {
+              "endTime": "84.200s",
+              "startTime": "83.600s",
+              "word": "birbirini"
+            },
+            {
+              "endTime": "84.500s",
+              "startTime": "84.200s",
+              "word": "tutmu\u015flar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7207246,
+          "transcript": " Bershka ma\u011fazas\u0131n\u0131n en g\u00fczel Hastanesi anlat\u0131lm\u0131\u015ft\u0131r",
+          "words": [
+            {
+              "endTime": "88s",
+              "startTime": "86.300s",
+              "word": "Bershka"
+            },
+            {
+              "endTime": "88.600s",
+              "startTime": "88s",
+              "word": "ma\u011fazas\u0131n\u0131n"
+            },
+            {
+              "endTime": "88.900s",
+              "startTime": "88.600s",
+              "word": "en"
+            },
+            {
+              "endTime": "89.200s",
+              "startTime": "88.900s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "89.800s",
+              "startTime": "89.200s",
+              "word": "Hastanesi"
+            },
+            {
+              "endTime": "90.900s",
+              "startTime": "89.800s",
+              "word": "anlat\u0131lm\u0131\u015ft\u0131r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.65278584,
+          "transcript": " Ama ger\u00e7ekten",
+          "words": [
+            {
+              "endTime": "93.900s",
+              "startTime": "93.100s",
+              "word": "Ama"
+            },
+            {
+              "endTime": "94.800s",
+              "startTime": "93.900s",
+              "word": "ger\u00e7ekten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9083932,
+          "transcript": " iyi ak\u015fam",
+          "words": [
+            {
+              "endTime": "98.300s",
+              "startTime": "97.900s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "99.300s",
+              "startTime": "98.300s",
+              "word": "ak\u015fam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79038525,
+          "transcript": " en g\u00fczel at\u0131",
+          "words": [
+            {
+              "endTime": "101.100s",
+              "startTime": "100.400s",
+              "word": "en"
+            },
+            {
+              "endTime": "101.400s",
+              "startTime": "101.100s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "101.700s",
+              "startTime": "101.400s",
+              "word": "at\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8544028,
+          "transcript": " te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "106.700s",
+              "startTime": "103.400s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

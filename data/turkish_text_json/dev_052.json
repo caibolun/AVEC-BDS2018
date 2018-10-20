@@ -1,0 +1,445 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7164548,
+          "transcript": "Yarim \u015fimdi",
+          "words": [
+            {
+              "endTime": "3.300s",
+              "startTime": "2.500s",
+              "word": "Yarim"
+            },
+            {
+              "endTime": "3.500s",
+              "startTime": "3.300s",
+              "word": "\u015fimdi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7441088,
+          "transcript": " ailem yat\u0131rd\u0131 buraya hastay\u0131m",
+          "words": [
+            {
+              "endTime": "18.200s",
+              "startTime": "16.200s",
+              "word": "ailem"
+            },
+            {
+              "endTime": "18.500s",
+              "startTime": "18.200s",
+              "word": "yat\u0131rd\u0131"
+            },
+            {
+              "endTime": "18.700s",
+              "startTime": "18.500s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "19.200s",
+              "startTime": "18.700s",
+              "word": "hastay\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7749994,
+          "transcript": " bilmiyorum bilmiyorum",
+          "words": [
+            {
+              "endTime": "21.900s",
+              "startTime": "20.500s",
+              "word": "bilmiyorum"
+            },
+            {
+              "endTime": "23.400s",
+              "startTime": "21.900s",
+              "word": "bilmiyorum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.68763757,
+          "transcript": " ya\u015fl\u0131 adam",
+          "words": [
+            {
+              "endTime": "41.800s",
+              "startTime": "41.100s",
+              "word": "ya\u015fl\u0131"
+            },
+            {
+              "endTime": "42.100s",
+              "startTime": "41.800s",
+              "word": "adam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83391184,
+          "transcript": " 30 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30",
+          "words": [
+            {
+              "endTime": "53s",
+              "startTime": "50.800s",
+              "word": "30"
+            },
+            {
+              "endTime": "59.100s",
+              "startTime": "53s",
+              "word": "6"
+            },
+            {
+              "endTime": "59.300s",
+              "startTime": "59.100s",
+              "word": "7"
+            },
+            {
+              "endTime": "59.700s",
+              "startTime": "59.300s",
+              "word": "8"
+            },
+            {
+              "endTime": "59.700s",
+              "startTime": "59.700s",
+              "word": "9"
+            },
+            {
+              "endTime": "60s",
+              "startTime": "59.700s",
+              "word": "10"
+            },
+            {
+              "endTime": "60.100s",
+              "startTime": "60s",
+              "word": "11"
+            },
+            {
+              "endTime": "61.200s",
+              "startTime": "60.100s",
+              "word": "13"
+            },
+            {
+              "endTime": "61.400s",
+              "startTime": "61.200s",
+              "word": "14"
+            },
+            {
+              "endTime": "61.700s",
+              "startTime": "61.400s",
+              "word": "15"
+            },
+            {
+              "endTime": "62s",
+              "startTime": "61.700s",
+              "word": "16"
+            },
+            {
+              "endTime": "62.300s",
+              "startTime": "62s",
+              "word": "17"
+            },
+            {
+              "endTime": "62.600s",
+              "startTime": "62.300s",
+              "word": "18"
+            },
+            {
+              "endTime": "63.300s",
+              "startTime": "62.600s",
+              "word": "19"
+            },
+            {
+              "endTime": "63.600s",
+              "startTime": "63.300s",
+              "word": "20"
+            },
+            {
+              "endTime": "63.900s",
+              "startTime": "63.600s",
+              "word": "21"
+            },
+            {
+              "endTime": "64.300s",
+              "startTime": "63.900s",
+              "word": "22"
+            },
+            {
+              "endTime": "64.600s",
+              "startTime": "64.300s",
+              "word": "23"
+            },
+            {
+              "endTime": "65s",
+              "startTime": "64.600s",
+              "word": "24"
+            },
+            {
+              "endTime": "65.400s",
+              "startTime": "65s",
+              "word": "25"
+            },
+            {
+              "endTime": "66.100s",
+              "startTime": "65.400s",
+              "word": "26"
+            },
+            {
+              "endTime": "66.500s",
+              "startTime": "66.100s",
+              "word": "27"
+            },
+            {
+              "endTime": "66.900s",
+              "startTime": "66.500s",
+              "word": "28"
+            },
+            {
+              "endTime": "67.300s",
+              "startTime": "66.900s",
+              "word": "29"
+            },
+            {
+              "endTime": "67.700s",
+              "startTime": "67.300s",
+              "word": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.90945613,
+          "transcript": " 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30",
+          "words": [
+            {
+              "endTime": "72.100s",
+              "startTime": "70.100s",
+              "word": "1"
+            },
+            {
+              "endTime": "73.500s",
+              "startTime": "72.100s",
+              "word": "2"
+            },
+            {
+              "endTime": "73.600s",
+              "startTime": "73.500s",
+              "word": "3"
+            },
+            {
+              "endTime": "73.800s",
+              "startTime": "73.600s",
+              "word": "4"
+            },
+            {
+              "endTime": "74s",
+              "startTime": "73.800s",
+              "word": "5"
+            },
+            {
+              "endTime": "74.200s",
+              "startTime": "74s",
+              "word": "6"
+            },
+            {
+              "endTime": "74.400s",
+              "startTime": "74.200s",
+              "word": "7"
+            },
+            {
+              "endTime": "74.700s",
+              "startTime": "74.400s",
+              "word": "8"
+            },
+            {
+              "endTime": "75s",
+              "startTime": "74.700s",
+              "word": "9"
+            },
+            {
+              "endTime": "75.200s",
+              "startTime": "75s",
+              "word": "10"
+            },
+            {
+              "endTime": "75.300s",
+              "startTime": "75.200s",
+              "word": "11"
+            },
+            {
+              "endTime": "75.600s",
+              "startTime": "75.300s",
+              "word": "12"
+            },
+            {
+              "endTime": "75.900s",
+              "startTime": "75.600s",
+              "word": "13"
+            },
+            {
+              "endTime": "76.100s",
+              "startTime": "75.900s",
+              "word": "14"
+            },
+            {
+              "endTime": "76.400s",
+              "startTime": "76.100s",
+              "word": "15"
+            },
+            {
+              "endTime": "76.600s",
+              "startTime": "76.400s",
+              "word": "16"
+            },
+            {
+              "endTime": "76.900s",
+              "startTime": "76.600s",
+              "word": "17"
+            },
+            {
+              "endTime": "77.700s",
+              "startTime": "76.900s",
+              "word": "18"
+            },
+            {
+              "endTime": "78s",
+              "startTime": "77.700s",
+              "word": "19"
+            },
+            {
+              "endTime": "78.300s",
+              "startTime": "78s",
+              "word": "20"
+            },
+            {
+              "endTime": "78.600s",
+              "startTime": "78.300s",
+              "word": "21"
+            },
+            {
+              "endTime": "78.900s",
+              "startTime": "78.600s",
+              "word": "22"
+            },
+            {
+              "endTime": "79.100s",
+              "startTime": "78.900s",
+              "word": "23"
+            },
+            {
+              "endTime": "79.400s",
+              "startTime": "79.100s",
+              "word": "24"
+            },
+            {
+              "endTime": "79.700s",
+              "startTime": "79.400s",
+              "word": "25"
+            },
+            {
+              "endTime": "80.300s",
+              "startTime": "79.700s",
+              "word": "26"
+            },
+            {
+              "endTime": "80.700s",
+              "startTime": "80.300s",
+              "word": "27"
+            },
+            {
+              "endTime": "81s",
+              "startTime": "80.700s",
+              "word": "28"
+            },
+            {
+              "endTime": "81.400s",
+              "startTime": "81s",
+              "word": "29"
+            },
+            {
+              "endTime": "81.700s",
+              "startTime": "81.400s",
+              "word": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7646155,
+          "transcript": " ayn\u0131 resmi",
+          "words": [
+            {
+              "endTime": "86.200s",
+              "startTime": "84.200s",
+              "word": "ayn\u0131"
+            },
+            {
+              "endTime": "86.500s",
+              "startTime": "86.200s",
+              "word": "resmi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.78727674,
+          "transcript": " patron",
+          "words": [
+            {
+              "endTime": "97s",
+              "startTime": "92.800s",
+              "word": "patron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.66930646,
+          "transcript": " annem babam",
+          "words": [
+            {
+              "endTime": "109.900s",
+              "startTime": "109.400s",
+              "word": "annem"
+            },
+            {
+              "endTime": "110.200s",
+              "startTime": "109.900s",
+              "word": "babam"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

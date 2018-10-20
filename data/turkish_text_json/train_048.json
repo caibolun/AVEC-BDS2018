@@ -1,0 +1,280 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.62469935,
+          "transcript": "Evet istersen",
+          "words": [
+            {
+              "endTime": "24.900s",
+              "startTime": "22.800s",
+              "word": "Evet"
+            },
+            {
+              "endTime": "26.900s",
+              "startTime": "24.900s",
+              "word": "istersen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8786599,
+          "transcript": "zaten bu kadar Allah a\u015fk\u0131na 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 24 25 26 28 30",
+          "words": [
+            {
+              "endTime": "32.700s",
+              "startTime": "31.800s",
+              "word": "zaten"
+            },
+            {
+              "endTime": "32.900s",
+              "startTime": "32.700s",
+              "word": "bu"
+            },
+            {
+              "endTime": "33s",
+              "startTime": "32.900s",
+              "word": "kadar"
+            },
+            {
+              "endTime": "33.300s",
+              "startTime": "33s",
+              "word": "Allah"
+            },
+            {
+              "endTime": "33.700s",
+              "startTime": "33.300s",
+              "word": "a\u015fk\u0131na"
+            },
+            {
+              "endTime": "35.600s",
+              "startTime": "33.700s",
+              "word": "1"
+            },
+            {
+              "endTime": "35.900s",
+              "startTime": "35.600s",
+              "word": "2"
+            },
+            {
+              "endTime": "36.200s",
+              "startTime": "35.900s",
+              "word": "3"
+            },
+            {
+              "endTime": "36.300s",
+              "startTime": "36.200s",
+              "word": "4"
+            },
+            {
+              "endTime": "36.700s",
+              "startTime": "36.300s",
+              "word": "5"
+            },
+            {
+              "endTime": "36.900s",
+              "startTime": "36.700s",
+              "word": "6"
+            },
+            {
+              "endTime": "37.300s",
+              "startTime": "36.900s",
+              "word": "7"
+            },
+            {
+              "endTime": "37.600s",
+              "startTime": "37.300s",
+              "word": "8"
+            },
+            {
+              "endTime": "38s",
+              "startTime": "37.600s",
+              "word": "9"
+            },
+            {
+              "endTime": "38.300s",
+              "startTime": "38s",
+              "word": "10"
+            },
+            {
+              "endTime": "38.600s",
+              "startTime": "38.300s",
+              "word": "11"
+            },
+            {
+              "endTime": "39s",
+              "startTime": "38.600s",
+              "word": "12"
+            },
+            {
+              "endTime": "39.400s",
+              "startTime": "39s",
+              "word": "13"
+            },
+            {
+              "endTime": "39.600s",
+              "startTime": "39.400s",
+              "word": "14"
+            },
+            {
+              "endTime": "40.200s",
+              "startTime": "39.600s",
+              "word": "15"
+            },
+            {
+              "endTime": "40.400s",
+              "startTime": "40.200s",
+              "word": "16"
+            },
+            {
+              "endTime": "44.300s",
+              "startTime": "40.400s",
+              "word": "24"
+            },
+            {
+              "endTime": "44.700s",
+              "startTime": "44.300s",
+              "word": "25"
+            },
+            {
+              "endTime": "45.100s",
+              "startTime": "44.700s",
+              "word": "26"
+            },
+            {
+              "endTime": "45.600s",
+              "startTime": "45.100s",
+              "word": "28"
+            },
+            {
+              "endTime": "46.600s",
+              "startTime": "45.600s",
+              "word": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.788884,
+          "transcript": " kan\u0131 bozuk olup da mutlu oluyor her \u015fey para de\u011fil parayla saadet olmaz insanlar i\u00e7in mutlu olabilirsin",
+          "words": [
+            {
+              "endTime": "63.900s",
+              "startTime": "62.100s",
+              "word": "kan\u0131"
+            },
+            {
+              "endTime": "64s",
+              "startTime": "63.900s",
+              "word": "bozuk"
+            },
+            {
+              "endTime": "64.300s",
+              "startTime": "64s",
+              "word": "olup"
+            },
+            {
+              "endTime": "64.800s",
+              "startTime": "64.300s",
+              "word": "da"
+            },
+            {
+              "endTime": "65.100s",
+              "startTime": "64.800s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "65.700s",
+              "startTime": "65.100s",
+              "word": "oluyor"
+            },
+            {
+              "endTime": "66.200s",
+              "startTime": "65.700s",
+              "word": "her"
+            },
+            {
+              "endTime": "66.300s",
+              "startTime": "66.200s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "66.700s",
+              "startTime": "66.300s",
+              "word": "para"
+            },
+            {
+              "endTime": "66.800s",
+              "startTime": "66.700s",
+              "word": "de\u011fil"
+            },
+            {
+              "endTime": "67.800s",
+              "startTime": "66.800s",
+              "word": "parayla"
+            },
+            {
+              "endTime": "67.900s",
+              "startTime": "67.800s",
+              "word": "saadet"
+            },
+            {
+              "endTime": "68.500s",
+              "startTime": "67.900s",
+              "word": "olmaz"
+            },
+            {
+              "endTime": "70.100s",
+              "startTime": "68.500s",
+              "word": "insanlar"
+            },
+            {
+              "endTime": "70.300s",
+              "startTime": "70.100s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "71.100s",
+              "startTime": "70.300s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "71.700s",
+              "startTime": "71.100s",
+              "word": "olabilirsin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5362117,
+          "transcript": " ya\u015fam\u0131n renkleri",
+          "words": [
+            {
+              "endTime": "78.300s",
+              "startTime": "77.700s",
+              "word": "ya\u015fam\u0131n"
+            },
+            {
+              "endTime": "78.600s",
+              "startTime": "78.300s",
+              "word": "renkleri"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

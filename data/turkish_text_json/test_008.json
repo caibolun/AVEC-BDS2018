@@ -1,0 +1,905 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9169793,
+          "transcript": "Ne konu\u015fal\u0131m",
+          "words": [
+            {
+              "endTime": "2.600s",
+              "startTime": "2.200s",
+              "word": "Ne"
+            },
+            {
+              "endTime": "3.100s",
+              "startTime": "2.600s",
+              "word": "konu\u015fal\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7659287,
+          "transcript": " buraya neden geldiniz",
+          "words": [
+            {
+              "endTime": "14.300s",
+              "startTime": "13.700s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "14.800s",
+              "startTime": "14.300s",
+              "word": "neden"
+            },
+            {
+              "endTime": "15.500s",
+              "startTime": "14.800s",
+              "word": "geldiniz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9559999,
+          "transcript": " buraya tedavi g\u00f6rmek i\u00e7in geldim",
+          "words": [
+            {
+              "endTime": "18.200s",
+              "startTime": "17.600s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "18.900s",
+              "startTime": "18.200s",
+              "word": "tedavi"
+            },
+            {
+              "endTime": "19.200s",
+              "startTime": "18.900s",
+              "word": "g\u00f6rmek"
+            },
+            {
+              "endTime": "19.500s",
+              "startTime": "19.200s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "19.900s",
+              "startTime": "19.500s",
+              "word": "geldim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81285495,
+          "transcript": " Psikolojik bunal\u0131ma girdim s\u0131k\u0131nt\u0131ya girdim",
+          "words": [
+            {
+              "endTime": "22.300s",
+              "startTime": "21.400s",
+              "word": "Psikolojik"
+            },
+            {
+              "endTime": "23.200s",
+              "startTime": "22.300s",
+              "word": "bunal\u0131ma"
+            },
+            {
+              "endTime": "23.700s",
+              "startTime": "23.200s",
+              "word": "girdim"
+            },
+            {
+              "endTime": "24.700s",
+              "startTime": "23.700s",
+              "word": "s\u0131k\u0131nt\u0131ya"
+            },
+            {
+              "endTime": "25s",
+              "startTime": "24.700s",
+              "word": "girdim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.821129,
+          "transcript": " tart\u0131\u015ft\u0131m insanlar oldu Bunun i\u00e7in de tedavi g\u00f6rmek i\u00e7in geldim",
+          "words": [
+            {
+              "endTime": "27.400s",
+              "startTime": "26.300s",
+              "word": "tart\u0131\u015ft\u0131m"
+            },
+            {
+              "endTime": "28s",
+              "startTime": "27.400s",
+              "word": "insanlar"
+            },
+            {
+              "endTime": "28.300s",
+              "startTime": "28s",
+              "word": "oldu"
+            },
+            {
+              "endTime": "29.800s",
+              "startTime": "28.300s",
+              "word": "Bunun"
+            },
+            {
+              "endTime": "30s",
+              "startTime": "29.800s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "30.100s",
+              "startTime": "30s",
+              "word": "de"
+            },
+            {
+              "endTime": "30.700s",
+              "startTime": "30.100s",
+              "word": "tedavi"
+            },
+            {
+              "endTime": "31s",
+              "startTime": "30.700s",
+              "word": "g\u00f6rmek"
+            },
+            {
+              "endTime": "31.200s",
+              "startTime": "31s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "31.500s",
+              "startTime": "31.200s",
+              "word": "geldim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6569366,
+          "transcript": " terminal iyile\u015fip gittiniz",
+          "words": [
+            {
+              "endTime": "33.700s",
+              "startTime": "33.100s",
+              "word": "terminal"
+            },
+            {
+              "endTime": "35.300s",
+              "startTime": "33.700s",
+              "word": "iyile\u015fip"
+            },
+            {
+              "endTime": "35.800s",
+              "startTime": "35.300s",
+              "word": "gittiniz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7999569,
+          "transcript": " \u00e7ok k\u00f6t\u00fc g\u00fcnde k\u00f6t\u00fc \u015feyler ya\u015fad\u0131m",
+          "words": [
+            {
+              "endTime": "40s",
+              "startTime": "38.200s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "40.300s",
+              "startTime": "40s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "40.600s",
+              "startTime": "40.300s",
+              "word": "g\u00fcnde"
+            },
+            {
+              "endTime": "41.400s",
+              "startTime": "40.600s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "41.800s",
+              "startTime": "41.400s",
+              "word": "\u015feyler"
+            },
+            {
+              "endTime": "42.200s",
+              "startTime": "41.800s",
+              "word": "ya\u015fad\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81350523,
+          "transcript": " bunal\u0131ma girdim deste\u011fi",
+          "words": [
+            {
+              "endTime": "44.300s",
+              "startTime": "43.700s",
+              "word": "bunal\u0131ma"
+            },
+            {
+              "endTime": "44.800s",
+              "startTime": "44.300s",
+              "word": "girdim"
+            },
+            {
+              "endTime": "46.200s",
+              "startTime": "44.800s",
+              "word": "deste\u011fi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.950922,
+          "transcript": " o y\u00fczden",
+          "words": [
+            {
+              "endTime": "47.500s",
+              "startTime": "47.500s",
+              "word": "o"
+            },
+            {
+              "endTime": "48.200s",
+              "startTime": "47.500s",
+              "word": "y\u00fczden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.74973863,
+          "transcript": " ter\u00f6r g\u00f6rmek i\u00e7in buraya gel",
+          "words": [
+            {
+              "endTime": "49.800s",
+              "startTime": "49.200s",
+              "word": "ter\u00f6r"
+            },
+            {
+              "endTime": "50.100s",
+              "startTime": "49.800s",
+              "word": "g\u00f6rmek"
+            },
+            {
+              "endTime": "50.400s",
+              "startTime": "50.100s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "50.700s",
+              "startTime": "50.400s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "50.900s",
+              "startTime": "50.700s",
+              "word": "gel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6802201,
+          "transcript": " \u0130zmir \u00e7ok \u00fcz\u00fcl\u00fcyor a\u011fl\u0131yor",
+          "words": [
+            {
+              "endTime": "64.900s",
+              "startTime": "64.300s",
+              "word": "\u0130zmir"
+            },
+            {
+              "endTime": "65.300s",
+              "startTime": "64.900s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "65.900s",
+              "startTime": "65.300s",
+              "word": "\u00fcz\u00fcl\u00fcyor"
+            },
+            {
+              "endTime": "67.600s",
+              "startTime": "65.900s",
+              "word": "a\u011fl\u0131yor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6090859,
+          "transcript": " yarasa",
+          "words": [
+            {
+              "endTime": "71s",
+              "startTime": "70.400s",
+              "word": "yarasa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.601769,
+          "transcript": " k\u00f6t\u00fc bir hat\u0131ra",
+          "words": [
+            {
+              "endTime": "74.100s",
+              "startTime": "73.600s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "74.900s",
+              "startTime": "74.100s",
+              "word": "bir"
+            },
+            {
+              "endTime": "75.800s",
+              "startTime": "74.900s",
+              "word": "hat\u0131ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8897705,
+          "transcript": " 1 2 3 4 5 6 7 8 9 10 11 12",
+          "words": [
+            {
+              "endTime": "86.800s",
+              "startTime": "85.300s",
+              "word": "1"
+            },
+            {
+              "endTime": "87.100s",
+              "startTime": "86.800s",
+              "word": "2"
+            },
+            {
+              "endTime": "87.200s",
+              "startTime": "87.100s",
+              "word": "3"
+            },
+            {
+              "endTime": "87.600s",
+              "startTime": "87.200s",
+              "word": "4"
+            },
+            {
+              "endTime": "87.900s",
+              "startTime": "87.600s",
+              "word": "5"
+            },
+            {
+              "endTime": "88.100s",
+              "startTime": "87.900s",
+              "word": "6"
+            },
+            {
+              "endTime": "88.500s",
+              "startTime": "88.100s",
+              "word": "7"
+            },
+            {
+              "endTime": "88.700s",
+              "startTime": "88.500s",
+              "word": "8"
+            },
+            {
+              "endTime": "89.100s",
+              "startTime": "88.700s",
+              "word": "9"
+            },
+            {
+              "endTime": "89.400s",
+              "startTime": "89.100s",
+              "word": "10"
+            },
+            {
+              "endTime": "89.600s",
+              "startTime": "89.400s",
+              "word": "11"
+            },
+            {
+              "endTime": "90s",
+              "startTime": "89.600s",
+              "word": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5642133,
+          "transcript": " belgesel",
+          "words": [
+            {
+              "endTime": "104.700s",
+              "startTime": "103.800s",
+              "word": "belgesel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.903395,
+          "transcript": " 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 25 26 27 30",
+          "words": [
+            {
+              "endTime": "106.400s",
+              "startTime": "105.900s",
+              "word": "1"
+            },
+            {
+              "endTime": "106.800s",
+              "startTime": "106.400s",
+              "word": "2"
+            },
+            {
+              "endTime": "106.800s",
+              "startTime": "106.800s",
+              "word": "3"
+            },
+            {
+              "endTime": "107.200s",
+              "startTime": "106.800s",
+              "word": "4"
+            },
+            {
+              "endTime": "107.500s",
+              "startTime": "107.200s",
+              "word": "5"
+            },
+            {
+              "endTime": "107.800s",
+              "startTime": "107.500s",
+              "word": "6"
+            },
+            {
+              "endTime": "108.100s",
+              "startTime": "107.800s",
+              "word": "7"
+            },
+            {
+              "endTime": "108.300s",
+              "startTime": "108.100s",
+              "word": "8"
+            },
+            {
+              "endTime": "108.700s",
+              "startTime": "108.300s",
+              "word": "9"
+            },
+            {
+              "endTime": "109s",
+              "startTime": "108.700s",
+              "word": "10"
+            },
+            {
+              "endTime": "109.200s",
+              "startTime": "109s",
+              "word": "11"
+            },
+            {
+              "endTime": "109.600s",
+              "startTime": "109.200s",
+              "word": "12"
+            },
+            {
+              "endTime": "109.900s",
+              "startTime": "109.600s",
+              "word": "13"
+            },
+            {
+              "endTime": "110.100s",
+              "startTime": "109.900s",
+              "word": "14"
+            },
+            {
+              "endTime": "110.600s",
+              "startTime": "110.100s",
+              "word": "15"
+            },
+            {
+              "endTime": "110.700s",
+              "startTime": "110.600s",
+              "word": "16"
+            },
+            {
+              "endTime": "111.100s",
+              "startTime": "110.700s",
+              "word": "17"
+            },
+            {
+              "endTime": "111.500s",
+              "startTime": "111.100s",
+              "word": "18"
+            },
+            {
+              "endTime": "111.800s",
+              "startTime": "111.500s",
+              "word": "19"
+            },
+            {
+              "endTime": "112.100s",
+              "startTime": "111.800s",
+              "word": "20"
+            },
+            {
+              "endTime": "114.100s",
+              "startTime": "112.100s",
+              "word": "25"
+            },
+            {
+              "endTime": "114.500s",
+              "startTime": "114.100s",
+              "word": "26"
+            },
+            {
+              "endTime": "115s",
+              "startTime": "114.500s",
+              "word": "27"
+            },
+            {
+              "endTime": "115.800s",
+              "startTime": "115s",
+              "word": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82217205,
+          "transcript": " g\u00fczel aile bir tablosu",
+          "words": [
+            {
+              "endTime": "131.400s",
+              "startTime": "131s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "132s",
+              "startTime": "131.400s",
+              "word": "aile"
+            },
+            {
+              "endTime": "132.200s",
+              "startTime": "132s",
+              "word": "bir"
+            },
+            {
+              "endTime": "132.700s",
+              "startTime": "132.200s",
+              "word": "tablosu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6502559,
+          "transcript": " t\u00fcrk\u00fc de uyuyorlar",
+          "words": [
+            {
+              "endTime": "134.900s",
+              "startTime": "134.300s",
+              "word": "t\u00fcrk\u00fc"
+            },
+            {
+              "endTime": "135s",
+              "startTime": "134.900s",
+              "word": "de"
+            },
+            {
+              "endTime": "135.500s",
+              "startTime": "135s",
+              "word": "uyuyorlar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.65527195,
+          "transcript": " Sa\u011f ol Osman k\u00f6pek var \u00e7ocuklar var m\u0131 \u00e7ocuklara uygun",
+          "words": [
+            {
+              "endTime": "139.200s",
+              "startTime": "138.800s",
+              "word": "Sa\u011f"
+            },
+            {
+              "endTime": "139.400s",
+              "startTime": "139.200s",
+              "word": "ol"
+            },
+            {
+              "endTime": "139.600s",
+              "startTime": "139.400s",
+              "word": "Osman"
+            },
+            {
+              "endTime": "140.500s",
+              "startTime": "139.600s",
+              "word": "k\u00f6pek"
+            },
+            {
+              "endTime": "140.800s",
+              "startTime": "140.500s",
+              "word": "var"
+            },
+            {
+              "endTime": "141.900s",
+              "startTime": "140.800s",
+              "word": "\u00e7ocuklar"
+            },
+            {
+              "endTime": "142s",
+              "startTime": "141.900s",
+              "word": "var"
+            },
+            {
+              "endTime": "143.300s",
+              "startTime": "142s",
+              "word": "m\u0131"
+            },
+            {
+              "endTime": "143.800s",
+              "startTime": "143.300s",
+              "word": "\u00e7ocuklara"
+            },
+            {
+              "endTime": "144.200s",
+              "startTime": "143.800s",
+              "word": "uygun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8530018,
+          "transcript": " g\u00fczel bir aile tatl\u0131s\u0131n",
+          "words": [
+            {
+              "endTime": "146s",
+              "startTime": "145.500s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "146.200s",
+              "startTime": "146s",
+              "word": "bir"
+            },
+            {
+              "endTime": "146.400s",
+              "startTime": "146.200s",
+              "word": "aile"
+            },
+            {
+              "endTime": "147.100s",
+              "startTime": "146.400s",
+              "word": "tatl\u0131s\u0131n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.69697523,
+          "transcript": " d\u0131\u015far\u0131day\u0131m en g\u00fczel \u015fehri",
+          "words": [
+            {
+              "endTime": "157s",
+              "startTime": "156.200s",
+              "word": "d\u0131\u015far\u0131day\u0131m"
+            },
+            {
+              "endTime": "157.200s",
+              "startTime": "157s",
+              "word": "en"
+            },
+            {
+              "endTime": "157.400s",
+              "startTime": "157.200s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "157.800s",
+              "startTime": "157.400s",
+              "word": "\u015fehri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91090566,
+          "transcript": " \u00e7ocuklarla gezmek",
+          "words": [
+            {
+              "endTime": "160.300s",
+              "startTime": "159.400s",
+              "word": "\u00e7ocuklarla"
+            },
+            {
+              "endTime": "160.900s",
+              "startTime": "160.300s",
+              "word": "gezmek"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7056087,
+          "transcript": " \u00e7ocuklara parka gitti",
+          "words": [
+            {
+              "endTime": "162.900s",
+              "startTime": "162.100s",
+              "word": "\u00e7ocuklara"
+            },
+            {
+              "endTime": "163.300s",
+              "startTime": "162.900s",
+              "word": "parka"
+            },
+            {
+              "endTime": "163.700s",
+              "startTime": "163.300s",
+              "word": "gitti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7238645,
+          "transcript": " \u00e7ocuklarla oynamak \u00e7ocuklarla gezmeyi sonu\u00e7lar\u0131 her tarafa gezmeyi sevmiyorum",
+          "words": [
+            {
+              "endTime": "165.600s",
+              "startTime": "164.900s",
+              "word": "\u00e7ocuklarla"
+            },
+            {
+              "endTime": "167.300s",
+              "startTime": "165.600s",
+              "word": "oynamak"
+            },
+            {
+              "endTime": "168s",
+              "startTime": "167.300s",
+              "word": "\u00e7ocuklarla"
+            },
+            {
+              "endTime": "169s",
+              "startTime": "168s",
+              "word": "gezmeyi"
+            },
+            {
+              "endTime": "170.900s",
+              "startTime": "169s",
+              "word": "sonu\u00e7lar\u0131"
+            },
+            {
+              "endTime": "171.300s",
+              "startTime": "170.900s",
+              "word": "her"
+            },
+            {
+              "endTime": "171.700s",
+              "startTime": "171.300s",
+              "word": "tarafa"
+            },
+            {
+              "endTime": "172.200s",
+              "startTime": "171.700s",
+              "word": "gezmeyi"
+            },
+            {
+              "endTime": "172.900s",
+              "startTime": "172.200s",
+              "word": "sevmiyorum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6587859,
+          "transcript": " bir \u015feyler",
+          "words": [
+            {
+              "endTime": "175.500s",
+              "startTime": "175.100s",
+              "word": "bir"
+            },
+            {
+              "endTime": "175.800s",
+              "startTime": "175.500s",
+              "word": "\u015feyler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

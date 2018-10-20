@@ -1,0 +1,480 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7083038,
+          "transcript": "bende sinir var",
+          "words": [
+            {
+              "endTime": "15.500s",
+              "startTime": "14.300s",
+              "word": "bende"
+            },
+            {
+              "endTime": "15.800s",
+              "startTime": "15.500s",
+              "word": "sinir"
+            },
+            {
+              "endTime": "16.200s",
+              "startTime": "15.800s",
+              "word": "var"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8149235,
+          "transcript": " Ne bileyim \u00f6yle",
+          "words": [
+            {
+              "endTime": "19.200s",
+              "startTime": "17.600s",
+              "word": "Ne"
+            },
+            {
+              "endTime": "19.500s",
+              "startTime": "19.200s",
+              "word": "bileyim"
+            },
+            {
+              "endTime": "19.600s",
+              "startTime": "19.500s",
+              "word": "\u00f6yle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6989144,
+          "transcript": "  stanbul Alibeyk\u00f6y kaporta boya",
+          "words": [
+            {
+              "endTime": "21.700s",
+              "startTime": "20.900s",
+              "word": "stanbul"
+            },
+            {
+              "endTime": "21.900s",
+              "startTime": "21.700s",
+              "word": "Alibeyk\u00f6y"
+            },
+            {
+              "endTime": "22.700s",
+              "startTime": "21.900s",
+              "word": "kaporta"
+            },
+            {
+              "endTime": "33.900s",
+              "startTime": "22.700s",
+              "word": "boya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6684231,
+          "transcript": " a\u011fl\u0131yor hasta m\u0131",
+          "words": [
+            {
+              "endTime": "53.500s",
+              "startTime": "52.200s",
+              "word": "a\u011fl\u0131yor"
+            },
+            {
+              "endTime": "55.600s",
+              "startTime": "53.500s",
+              "word": "hasta"
+            },
+            {
+              "endTime": "55.800s",
+              "startTime": "55.600s",
+              "word": "m\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79296505,
+          "transcript": " yarasaya Ne yap\u0131yorsun",
+          "words": [
+            {
+              "endTime": "59.600s",
+              "startTime": "58.700s",
+              "word": "yarasaya"
+            },
+            {
+              "endTime": "60.700s",
+              "startTime": "59.600s",
+              "word": "Ne"
+            },
+            {
+              "endTime": "61.100s",
+              "startTime": "60.700s",
+              "word": "yap\u0131yorsun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8239831,
+          "transcript": " K\u00fctahya",
+          "words": [
+            {
+              "endTime": "71.100s",
+              "startTime": "70.400s",
+              "word": "K\u00fctahya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.52539444,
+          "transcript": " \u015fimdi zaten",
+          "words": [
+            {
+              "endTime": "72.900s",
+              "startTime": "72.400s",
+              "word": "\u015fimdi"
+            },
+            {
+              "endTime": "73s",
+              "startTime": "72.900s",
+              "word": "zaten"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85812783,
+          "transcript": " g\u00fczel s\u00f6zler 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27",
+          "words": [
+            {
+              "endTime": "77.100s",
+              "startTime": "76.600s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "77.600s",
+              "startTime": "77.100s",
+              "word": "s\u00f6zler"
+            },
+            {
+              "endTime": "78s",
+              "startTime": "77.600s",
+              "word": "1"
+            },
+            {
+              "endTime": "79.400s",
+              "startTime": "78s",
+              "word": "2"
+            },
+            {
+              "endTime": "79.600s",
+              "startTime": "79.400s",
+              "word": "3"
+            },
+            {
+              "endTime": "79.800s",
+              "startTime": "79.600s",
+              "word": "4"
+            },
+            {
+              "endTime": "80s",
+              "startTime": "79.800s",
+              "word": "5"
+            },
+            {
+              "endTime": "80.200s",
+              "startTime": "80s",
+              "word": "6"
+            },
+            {
+              "endTime": "80.500s",
+              "startTime": "80.200s",
+              "word": "7"
+            },
+            {
+              "endTime": "80.600s",
+              "startTime": "80.500s",
+              "word": "8"
+            },
+            {
+              "endTime": "80.900s",
+              "startTime": "80.600s",
+              "word": "9"
+            },
+            {
+              "endTime": "81.200s",
+              "startTime": "80.900s",
+              "word": "10"
+            },
+            {
+              "endTime": "81.400s",
+              "startTime": "81.200s",
+              "word": "11"
+            },
+            {
+              "endTime": "81.600s",
+              "startTime": "81.400s",
+              "word": "12"
+            },
+            {
+              "endTime": "81.800s",
+              "startTime": "81.600s",
+              "word": "13"
+            },
+            {
+              "endTime": "82.100s",
+              "startTime": "81.800s",
+              "word": "14"
+            },
+            {
+              "endTime": "82.400s",
+              "startTime": "82.100s",
+              "word": "15"
+            },
+            {
+              "endTime": "82.600s",
+              "startTime": "82.400s",
+              "word": "16"
+            },
+            {
+              "endTime": "82.900s",
+              "startTime": "82.600s",
+              "word": "17"
+            },
+            {
+              "endTime": "83.100s",
+              "startTime": "82.900s",
+              "word": "18"
+            },
+            {
+              "endTime": "83.400s",
+              "startTime": "83.100s",
+              "word": "19"
+            },
+            {
+              "endTime": "83.700s",
+              "startTime": "83.400s",
+              "word": "20"
+            },
+            {
+              "endTime": "83.900s",
+              "startTime": "83.700s",
+              "word": "21"
+            },
+            {
+              "endTime": "84.100s",
+              "startTime": "83.900s",
+              "word": "22"
+            },
+            {
+              "endTime": "84.400s",
+              "startTime": "84.100s",
+              "word": "23"
+            },
+            {
+              "endTime": "84.700s",
+              "startTime": "84.400s",
+              "word": "24"
+            },
+            {
+              "endTime": "85s",
+              "startTime": "84.700s",
+              "word": "25"
+            },
+            {
+              "endTime": "85.300s",
+              "startTime": "85s",
+              "word": "26"
+            },
+            {
+              "endTime": "85.700s",
+              "startTime": "85.300s",
+              "word": "27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5449376,
+          "transcript": " 12345678 10 11 12",
+          "words": [
+            {
+              "endTime": "92.700s",
+              "startTime": "91s",
+              "word": "12345678"
+            },
+            {
+              "endTime": "93.100s",
+              "startTime": "92.700s",
+              "word": "10"
+            },
+            {
+              "endTime": "93.300s",
+              "startTime": "93.100s",
+              "word": "11"
+            },
+            {
+              "endTime": "93.400s",
+              "startTime": "93.300s",
+              "word": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9575478,
+          "transcript": " Ayr\u0131ca",
+          "words": [
+            {
+              "endTime": "107.600s",
+              "startTime": "104.700s",
+              "word": "Ayr\u0131ca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6151141,
+          "transcript": " \u00f6ylece yat\u0131yorum \u00f6yle var",
+          "words": [
+            {
+              "endTime": "109.600s",
+              "startTime": "108.900s",
+              "word": "\u00f6ylece"
+            },
+            {
+              "endTime": "110.200s",
+              "startTime": "109.600s",
+              "word": "yat\u0131yorum"
+            },
+            {
+              "endTime": "110.300s",
+              "startTime": "110.200s",
+              "word": "\u00f6yle"
+            },
+            {
+              "endTime": "110.600s",
+              "startTime": "110.300s",
+              "word": "var"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.75834805,
+          "transcript": " i\u00e7erde tavuklar",
+          "words": [
+            {
+              "endTime": "112.800s",
+              "startTime": "112.200s",
+              "word": "i\u00e7erde"
+            },
+            {
+              "endTime": "113.300s",
+              "startTime": "112.800s",
+              "word": "tavuklar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71604717,
+          "transcript": " en g\u00fczel hat\u0131ra",
+          "words": [
+            {
+              "endTime": "131s",
+              "startTime": "129.500s",
+              "word": "en"
+            },
+            {
+              "endTime": "131.200s",
+              "startTime": "131s",
+              "word": "g\u00fczel"
+            },
+            {
+              "endTime": "131.500s",
+              "startTime": "131.200s",
+              "word": "hat\u0131ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8255841,
+          "transcript": " hayat\u0131nda hi\u00e7 k\u00f6t\u00fc \u015feyler beklemiyorum",
+          "words": [
+            {
+              "endTime": "134.800s",
+              "startTime": "134.100s",
+              "word": "hayat\u0131nda"
+            },
+            {
+              "endTime": "134.800s",
+              "startTime": "134.800s",
+              "word": "hi\u00e7"
+            },
+            {
+              "endTime": "135.200s",
+              "startTime": "134.800s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "135.500s",
+              "startTime": "135.200s",
+              "word": "\u015feyler"
+            },
+            {
+              "endTime": "137.200s",
+              "startTime": "135.500s",
+              "word": "beklemiyorum"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

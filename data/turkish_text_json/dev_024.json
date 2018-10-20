@@ -1,0 +1,210 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87694395,
+          "transcript": "\u00e7\u0131kmasayd\u0131",
+          "words": [
+            {
+              "endTime": "1.400s",
+              "startTime": "0s",
+              "word": "\u00e7\u0131kmasayd\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84330785,
+          "transcript": " t\u0131rnaklar\u0131n\u0131 ameliyat olmu\u015ftum sonucu k\u00f6t\u00fc bekliyorum iyi \u00e7\u0131km\u0131\u015ft\u0131 en mutlu g\u00fcn\u00fcm o benim i\u00e7in bitti",
+          "words": [
+            {
+              "endTime": "4.400s",
+              "startTime": "2.500s",
+              "word": "t\u0131rnaklar\u0131n\u0131"
+            },
+            {
+              "endTime": "4.800s",
+              "startTime": "4.400s",
+              "word": "ameliyat"
+            },
+            {
+              "endTime": "5.400s",
+              "startTime": "4.800s",
+              "word": "olmu\u015ftum"
+            },
+            {
+              "endTime": "7.100s",
+              "startTime": "5.400s",
+              "word": "sonucu"
+            },
+            {
+              "endTime": "7.300s",
+              "startTime": "7.100s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "7.800s",
+              "startTime": "7.300s",
+              "word": "bekliyorum"
+            },
+            {
+              "endTime": "8s",
+              "startTime": "7.800s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "8.600s",
+              "startTime": "8s",
+              "word": "\u00e7\u0131km\u0131\u015ft\u0131"
+            },
+            {
+              "endTime": "9.400s",
+              "startTime": "8.600s",
+              "word": "en"
+            },
+            {
+              "endTime": "9.700s",
+              "startTime": "9.400s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "10s",
+              "startTime": "9.700s",
+              "word": "g\u00fcn\u00fcm"
+            },
+            {
+              "endTime": "10.100s",
+              "startTime": "10s",
+              "word": "o"
+            },
+            {
+              "endTime": "10.400s",
+              "startTime": "10.100s",
+              "word": "benim"
+            },
+            {
+              "endTime": "10.500s",
+              "startTime": "10.400s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "10.800s",
+              "startTime": "10.500s",
+              "word": "bitti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87694395,
+          "transcript": "\u00e7\u0131kmasayd\u0131",
+          "words": [
+            {
+              "endTime": "1.400s",
+              "startTime": "0s",
+              "word": "\u00e7\u0131kmasayd\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8432959,
+          "transcript": " t\u0131rnaklar\u0131n\u0131 ameliyat olmu\u015ftum sonucu k\u00f6t\u00fc bekliyorum iyi \u00e7\u0131km\u0131\u015ft\u0131 en mutlu g\u00fcn\u00fcm o benim i\u00e7in bitti",
+          "words": [
+            {
+              "endTime": "4.400s",
+              "startTime": "2.500s",
+              "word": "t\u0131rnaklar\u0131n\u0131"
+            },
+            {
+              "endTime": "4.800s",
+              "startTime": "4.400s",
+              "word": "ameliyat"
+            },
+            {
+              "endTime": "5.400s",
+              "startTime": "4.800s",
+              "word": "olmu\u015ftum"
+            },
+            {
+              "endTime": "7.100s",
+              "startTime": "5.400s",
+              "word": "sonucu"
+            },
+            {
+              "endTime": "7.300s",
+              "startTime": "7.100s",
+              "word": "k\u00f6t\u00fc"
+            },
+            {
+              "endTime": "7.800s",
+              "startTime": "7.300s",
+              "word": "bekliyorum"
+            },
+            {
+              "endTime": "8s",
+              "startTime": "7.800s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "8.600s",
+              "startTime": "8s",
+              "word": "\u00e7\u0131km\u0131\u015ft\u0131"
+            },
+            {
+              "endTime": "9.400s",
+              "startTime": "8.600s",
+              "word": "en"
+            },
+            {
+              "endTime": "9.700s",
+              "startTime": "9.400s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "10s",
+              "startTime": "9.700s",
+              "word": "g\u00fcn\u00fcm"
+            },
+            {
+              "endTime": "10.100s",
+              "startTime": "10s",
+              "word": "o"
+            },
+            {
+              "endTime": "10.400s",
+              "startTime": "10.100s",
+              "word": "benim"
+            },
+            {
+              "endTime": "10.500s",
+              "startTime": "10.400s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "10.800s",
+              "startTime": "10.500s",
+              "word": "bitti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

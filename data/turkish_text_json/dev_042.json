@@ -1,0 +1,480 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.65816414,
+          "transcript": "Bursa i\u00e7in te\u015fekk\u00fcr ederim",
+          "words": [
+            {
+              "endTime": "3.800s",
+              "startTime": "2.600s",
+              "word": "Bursa"
+            },
+            {
+              "endTime": "4.100s",
+              "startTime": "3.800s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "4.900s",
+              "startTime": "4.100s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "5.200s",
+              "startTime": "4.900s",
+              "word": "ederim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7165758,
+          "transcript": " lg4 anlat\u0131r m\u0131s\u0131n\u0131z buraya olmak i\u00e7in geldim geri zekal\u0131 yapt\u0131r\u0131rs\u0131n\u0131z",
+          "words": [
+            {
+              "endTime": "11.200s",
+              "startTime": "8.900s",
+              "word": "lg4"
+            },
+            {
+              "endTime": "11.800s",
+              "startTime": "11.200s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "12s",
+              "startTime": "11.800s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "12.400s",
+              "startTime": "12s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "13.400s",
+              "startTime": "12.400s",
+              "word": "olmak"
+            },
+            {
+              "endTime": "13.600s",
+              "startTime": "13.400s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "13.900s",
+              "startTime": "13.600s",
+              "word": "geldim"
+            },
+            {
+              "endTime": "16s",
+              "startTime": "13.900s",
+              "word": "geri"
+            },
+            {
+              "endTime": "16.400s",
+              "startTime": "16s",
+              "word": "zekal\u0131"
+            },
+            {
+              "endTime": "17.600s",
+              "startTime": "16.400s",
+              "word": "yapt\u0131r\u0131rs\u0131n\u0131z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.651272,
+          "transcript": " Evet hayat\u0131m",
+          "words": [
+            {
+              "endTime": "19.500s",
+              "startTime": "19s",
+              "word": "Evet"
+            },
+            {
+              "endTime": "19.700s",
+              "startTime": "19.500s",
+              "word": "hayat\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77945596,
+          "transcript": " \u00e7ok \u00fcz\u00fcld\u00fc\u011f\u00fcm \u015fey yoktur 1-2-3-4-5-6-7-8-9-10",
+          "words": [
+            {
+              "endTime": "21.500s",
+              "startTime": "21.100s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "22.200s",
+              "startTime": "21.500s",
+              "word": "\u00fcz\u00fcld\u00fc\u011f\u00fcm"
+            },
+            {
+              "endTime": "22.300s",
+              "startTime": "22.200s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "28.700s",
+              "startTime": "22.300s",
+              "word": "yoktur"
+            },
+            {
+              "endTime": "32.700s",
+              "startTime": "28.700s",
+              "word": "1-2-3-4-5-6-7-8-9-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81109065,
+          "transcript": " 12345678 13 14 15 16",
+          "words": [
+            {
+              "endTime": "43s",
+              "startTime": "41.200s",
+              "word": "12345678"
+            },
+            {
+              "endTime": "43.800s",
+              "startTime": "43s",
+              "word": "13"
+            },
+            {
+              "endTime": "44.100s",
+              "startTime": "43.800s",
+              "word": "14"
+            },
+            {
+              "endTime": "44.200s",
+              "startTime": "44.100s",
+              "word": "15"
+            },
+            {
+              "endTime": "44.400s",
+              "startTime": "44.200s",
+              "word": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9043546,
+          "transcript": " mutlu bir yuva",
+          "words": [
+            {
+              "endTime": "53.600s",
+              "startTime": "50.400s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "53.800s",
+              "startTime": "53.600s",
+              "word": "bir"
+            },
+            {
+              "endTime": "54s",
+              "startTime": "53.800s",
+              "word": "yuva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6460196,
+          "transcript": " Ya\u015fam\u0131n K\u0131y\u0131s\u0131nda \u00e7al\u0131\u015fma te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "58.600s",
+              "startTime": "57.700s",
+              "word": "Ya\u015fam\u0131n"
+            },
+            {
+              "endTime": "58.900s",
+              "startTime": "58.600s",
+              "word": "K\u0131y\u0131s\u0131nda"
+            },
+            {
+              "endTime": "60.200s",
+              "startTime": "58.900s",
+              "word": "\u00e7al\u0131\u015fma"
+            },
+            {
+              "endTime": "61.700s",
+              "startTime": "60.200s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6581642,
+          "transcript": "Bursa i\u00e7in te\u015fekk\u00fcr ederim",
+          "words": [
+            {
+              "endTime": "3.800s",
+              "startTime": "2.600s",
+              "word": "Bursa"
+            },
+            {
+              "endTime": "4.100s",
+              "startTime": "3.800s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "4.900s",
+              "startTime": "4.100s",
+              "word": "te\u015fekk\u00fcr"
+            },
+            {
+              "endTime": "5.200s",
+              "startTime": "4.900s",
+              "word": "ederim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71657574,
+          "transcript": " lg4 anlat\u0131r m\u0131s\u0131n\u0131z buraya olmak i\u00e7in geldim geri zekal\u0131 yapt\u0131r\u0131rs\u0131n\u0131z",
+          "words": [
+            {
+              "endTime": "11.200s",
+              "startTime": "8.900s",
+              "word": "lg4"
+            },
+            {
+              "endTime": "11.800s",
+              "startTime": "11.200s",
+              "word": "anlat\u0131r"
+            },
+            {
+              "endTime": "12s",
+              "startTime": "11.800s",
+              "word": "m\u0131s\u0131n\u0131z"
+            },
+            {
+              "endTime": "12.400s",
+              "startTime": "12s",
+              "word": "buraya"
+            },
+            {
+              "endTime": "13.400s",
+              "startTime": "12.400s",
+              "word": "olmak"
+            },
+            {
+              "endTime": "13.600s",
+              "startTime": "13.400s",
+              "word": "i\u00e7in"
+            },
+            {
+              "endTime": "13.900s",
+              "startTime": "13.600s",
+              "word": "geldim"
+            },
+            {
+              "endTime": "16s",
+              "startTime": "13.900s",
+              "word": "geri"
+            },
+            {
+              "endTime": "16.400s",
+              "startTime": "16s",
+              "word": "zekal\u0131"
+            },
+            {
+              "endTime": "17.600s",
+              "startTime": "16.400s",
+              "word": "yapt\u0131r\u0131rs\u0131n\u0131z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.651272,
+          "transcript": " Evet hayat\u0131m",
+          "words": [
+            {
+              "endTime": "19.500s",
+              "startTime": "19s",
+              "word": "Evet"
+            },
+            {
+              "endTime": "19.700s",
+              "startTime": "19.500s",
+              "word": "hayat\u0131m"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7794617,
+          "transcript": " \u00e7ok \u00fcz\u00fcld\u00fc\u011f\u00fcm \u015fey yoktur 1-2-3-4-5-6-7-8-9-10",
+          "words": [
+            {
+              "endTime": "21.500s",
+              "startTime": "21.100s",
+              "word": "\u00e7ok"
+            },
+            {
+              "endTime": "22.200s",
+              "startTime": "21.500s",
+              "word": "\u00fcz\u00fcld\u00fc\u011f\u00fcm"
+            },
+            {
+              "endTime": "22.300s",
+              "startTime": "22.200s",
+              "word": "\u015fey"
+            },
+            {
+              "endTime": "28.700s",
+              "startTime": "22.300s",
+              "word": "yoktur"
+            },
+            {
+              "endTime": "32.700s",
+              "startTime": "28.700s",
+              "word": "1-2-3-4-5-6-7-8-9-10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81109065,
+          "transcript": " 12345678 13 14 15 16",
+          "words": [
+            {
+              "endTime": "43s",
+              "startTime": "41.200s",
+              "word": "12345678"
+            },
+            {
+              "endTime": "43.800s",
+              "startTime": "43s",
+              "word": "13"
+            },
+            {
+              "endTime": "44.100s",
+              "startTime": "43.800s",
+              "word": "14"
+            },
+            {
+              "endTime": "44.200s",
+              "startTime": "44.100s",
+              "word": "15"
+            },
+            {
+              "endTime": "44.400s",
+              "startTime": "44.200s",
+              "word": "16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.90435386,
+          "transcript": " mutlu bir yuva",
+          "words": [
+            {
+              "endTime": "53.600s",
+              "startTime": "50.400s",
+              "word": "mutlu"
+            },
+            {
+              "endTime": "53.800s",
+              "startTime": "53.600s",
+              "word": "bir"
+            },
+            {
+              "endTime": "54s",
+              "startTime": "53.800s",
+              "word": "yuva"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.64601964,
+          "transcript": " Ya\u015fam\u0131n K\u0131y\u0131s\u0131nda \u00e7al\u0131\u015fma te\u015fekk\u00fcrler",
+          "words": [
+            {
+              "endTime": "58.600s",
+              "startTime": "57.700s",
+              "word": "Ya\u015fam\u0131n"
+            },
+            {
+              "endTime": "58.900s",
+              "startTime": "58.600s",
+              "word": "K\u0131y\u0131s\u0131nda"
+            },
+            {
+              "endTime": "60.200s",
+              "startTime": "58.900s",
+              "word": "\u00e7al\u0131\u015fma"
+            },
+            {
+              "endTime": "61.700s",
+              "startTime": "60.200s",
+              "word": "te\u015fekk\u00fcrler"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

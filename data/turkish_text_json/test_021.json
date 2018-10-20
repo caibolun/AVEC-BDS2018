@@ -1,0 +1,135 @@
+{
+  "@type": "type.googleapis.com/google.cloud.speech.v1.LongRunningRecognizeResponse",
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.64277005,
+          "transcript": "Fernando",
+          "words": [
+            {
+              "endTime": "31.500s",
+              "startTime": "29.600s",
+              "word": "Fernando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.6054176,
+          "transcript": "Sen ne diyelim \u00e7\u0131kaca\u011f\u0131m Yar\u0131n evdeyim buradayd\u0131",
+          "words": [
+            {
+              "endTime": "32.700s",
+              "startTime": "32.300s",
+              "word": "Sen"
+            },
+            {
+              "endTime": "32.900s",
+              "startTime": "32.700s",
+              "word": "ne"
+            },
+            {
+              "endTime": "33.900s",
+              "startTime": "32.900s",
+              "word": "diyelim"
+            },
+            {
+              "endTime": "34.700s",
+              "startTime": "33.900s",
+              "word": "\u00e7\u0131kaca\u011f\u0131m"
+            },
+            {
+              "endTime": "35.100s",
+              "startTime": "34.700s",
+              "word": "Yar\u0131n"
+            },
+            {
+              "endTime": "36.800s",
+              "startTime": "35.100s",
+              "word": "evdeyim"
+            },
+            {
+              "endTime": "37.500s",
+              "startTime": "36.800s",
+              "word": "buradayd\u0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.76287246,
+          "transcript": " evde iyi O\u011flum kendi kendime burada iyi de\u011fil",
+          "words": [
+            {
+              "endTime": "42s",
+              "startTime": "41.400s",
+              "word": "evde"
+            },
+            {
+              "endTime": "42.200s",
+              "startTime": "42s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "42.400s",
+              "startTime": "42.200s",
+              "word": "O\u011flum"
+            },
+            {
+              "endTime": "42.700s",
+              "startTime": "42.400s",
+              "word": "kendi"
+            },
+            {
+              "endTime": "43.100s",
+              "startTime": "42.700s",
+              "word": "kendime"
+            },
+            {
+              "endTime": "43.400s",
+              "startTime": "43.100s",
+              "word": "burada"
+            },
+            {
+              "endTime": "43.700s",
+              "startTime": "43.400s",
+              "word": "iyi"
+            },
+            {
+              "endTime": "44s",
+              "startTime": "43.700s",
+              "word": "de\u011fil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.68416864,
+          "transcript": " g\u00f6n\u00fcl k\u00f6m\u00fcr",
+          "words": [
+            {
+              "endTime": "55.200s",
+              "startTime": "54.200s",
+              "word": "g\u00f6n\u00fcl"
+            },
+            {
+              "endTime": "55.500s",
+              "startTime": "55.200s",
+              "word": "k\u00f6m\u00fcr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
