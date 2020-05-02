@@ -8,4 +8,4 @@ xlrd==1.1.0
 PIL==5.0.0
 scipy==1.0.0
 json==2.0.9
-requests==2.18.4
+requests==2.20.0
